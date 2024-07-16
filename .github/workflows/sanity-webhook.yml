@@ -16,11 +16,14 @@ jobs:
       run: |
         chmod +x ./update_repo.sh
         ./update_repo.sh
+    
+    - name: Set Git config
+      run: |
+        git config user.email "areyes@redabierta.hn"
+        git config user.name "AnibalReyes"
 
     - name: Commit and Push changes
       run: |
-        git config user.name 'AnibalReyes'
-        git config user.email 'anibalreyes@redabierta.hn'
         git add .
         git commit -m "Update files from Sanity"
         git push origin main
