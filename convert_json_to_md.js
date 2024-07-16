@@ -1,6 +1,5 @@
 import fs from 'fs';
 import path from 'path';
-import json2md from 'json2md';
 
 // Leer el archivo JSON
 const rawData = fs.readFileSync('new_blogs.json');
