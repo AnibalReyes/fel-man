@@ -7,7 +7,7 @@ BLOGS_PATH="src/content/docs/guides"
 
 curl -s -o new_blogs.json "https://$SANITY_PROJECT_ID.api.sanity.io/v1/data/export/$SANITY_DATASET?token=$SANITY_TOKEN"
 
-node convert_json_to_md.js
+node addDocs.js
 
 # Añadir, commitear y empujar los cambios
 cd $BLOGS_PATH
