@@ -16,14 +16,13 @@ if (!fs.existsSync(blogsDir)) {
 
 // Convertir cada blog a Markdown y guardarlo en el directorio
 blogs.forEach(blog => {
-  const markdownContent = json2md([
+  const markdownContent = [
     { h1: blog.title },
     { p: blog.content },
-    // Agregar más campos según sea necesario
-  ]);
+  ]
 
   const filePath = path.join(blogsDir, `${blog.slug}.md`);
-  fs.writeFileSync(filePath, markdownContent);
+  fs.writeFileSync(filePath, markdownContent.toString);
 });
 
 console.log('Blogs convertidos a Markdown y guardados en', blogsDir);
