@@ -1,0 +1,26 @@
+name: Update Repository from Sanity
+
+on:
+  workflow_dispatch:  
+  repository_dispatch: 
+
+jobs:
+  update-repo:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Fetch new content from Sanity
+      run: |
+        chmod +x ./update_repo.sh
+        ./update_repo.sh
+
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add .
+        git commit -m "Update files from Sanity"
+        git push origin main
