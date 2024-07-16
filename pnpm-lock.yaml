@@ -38,9 +38,6 @@ importers:
       astro:
         specifier: ^4.10.2
         version: 4.11.5(typescript@5.5.3)
-      json2md:
-        specifier: ^2.0.1
-        version: 2.0.1
       react:
         specifier: ^18.3.1
         version: 18.3.1
@@ -3053,9 +3050,6 @@ packages:
     resolution: {integrity: sha512-EdDDZu4A2OyIK7Lr/2zG+w5jmbuk1DVBnEwREQvBzspBJkCEbRa8GxU1lghYcaGJCnRWibjDXlq779X1/y5xwg==}
     engines: {node: '>=8'}
 
-  indento@1.1.13:
-    resolution: {integrity: sha512-YZWk3mreBEM7sBPddsiQnW9Z8SGg/gNpFfscJq00HCDS7pxcQWWWMSVKJU7YkTRyDu1Zv2s8zaK8gQWKmCXHlg==}
-
   inflight@1.0.6:
     resolution: {integrity: sha512-k92I/b08q4wvFscXCLvqfsHCrjrF7yiXsQuIVvVE7N82W3+aqpzuUdBbfhWcy/FZR3/4IgflMgKLOsvPDrGCJA==}
     deprecated: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
@@ -3300,9 +3294,6 @@ packages:
 
   json-reduce@3.0.0:
     resolution: {integrity: sha512-zvnhEvwhqTOxBIcXnxvHvhqtubdwFRp+FascmCaL56BT9jdttRU8IFc+Ilh2HPJ0AtioF8mFPxmReuJKLW0Iyw==}
-
-  json2md@2.0.1:
-    resolution: {integrity: sha512-VbwmZ83qmUfKBS2pUOHlzNKEZFPBeJSbzEok3trMYyboZUgdHNn1XZfc1uT8UZs1GHCrmRUBXCfqw4YmmQuOhw==}
 
   json5@2.2.3:
     resolution: {integrity: sha512-XmOWe7eyHYH14cLdVPoyg+GOH3rYX++KpzrylJwSW98t3Nk+U8XOl8FWKOgwtzdb8lXGf6zYwDUzeHMWfxasyg==}
@@ -7078,7 +7069,7 @@ snapshots:
     dependencies:
       '@sanity/client': 6.21.0(debug@4.3.5)
       '@sanity/icons': 3.3.0(react@18.3.1)
-      '@sanity/preview-url-secret': 1.6.18(@sanity/client@6.21.0)
+      '@sanity/preview-url-secret': 1.6.18(@sanity/client@6.21.0(debug@4.3.5))
       '@sanity/ui': 2.7.0(react-dom@18.3.1(react@18.3.1))(react-is@18.3.1)(react@18.3.1)(styled-components@6.1.11(react-dom@18.3.1(react@18.3.1))(react@18.3.1))
       '@sanity/uuid': 3.0.2
       '@types/lodash.isequal': 4.5.8
@@ -7097,7 +7088,7 @@ snapshots:
       - react-is
       - styled-components
 
-  '@sanity/preview-url-secret@1.6.18(@sanity/client@6.21.0)':
+  '@sanity/preview-url-secret@1.6.18(@sanity/client@6.21.0(debug@4.3.5))':
     dependencies:
       '@sanity/client': 6.21.0(debug@4.3.5)
       '@sanity/uuid': 3.0.2
@@ -7178,7 +7169,7 @@ snapshots:
 
   '@sanity/visual-editing@2.1.6(@sanity/client@6.21.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
     dependencies:
-      '@sanity/preview-url-secret': 1.6.18(@sanity/client@6.21.0)
+      '@sanity/preview-url-secret': 1.6.18(@sanity/client@6.21.0(debug@4.3.5))
       '@vercel/stega': 0.1.2
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
@@ -8883,8 +8874,6 @@ snapshots:
 
   indent-string@4.0.0: {}
 
-  indento@1.1.13: {}
-
   inflight@1.0.6:
     dependencies:
       once: 1.4.0
@@ -9078,10 +9067,6 @@ snapshots:
   json-parse-even-better-errors@2.3.1: {}
 
   json-reduce@3.0.0: {}
-
-  json2md@2.0.1:
-    dependencies:
-      indento: 1.1.13
 
   json5@2.2.3: {}
 
