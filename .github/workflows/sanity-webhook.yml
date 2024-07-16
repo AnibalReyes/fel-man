@@ -19,8 +19,8 @@ jobs:
 
     - name: Commit and Push changes
       run: |
-        git config --global user.name 'AnibalReyes'
-        git config --global user.email 'anibalreyes@redabierta.hn'
+        git config user.name 'AnibalReyes'
+        git config user.email 'anibalreyes@redabierta.hn'
         git add .
         git commit -m "Update files from Sanity"
         git push origin main
