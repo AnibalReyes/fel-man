@@ -5,7 +5,6 @@ import path from 'path';
 const rawData = fs.readFileSync('new_blogs.json');
 const blogs = JSON.parse(rawData);
 
-// Directorio donde se guardarán los archivos Markdown
 const blogsDir = path.join(__dirname, 'src', 'blogs');
 
 // Crear el directorio si no existe

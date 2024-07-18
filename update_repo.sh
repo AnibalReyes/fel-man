@@ -9,7 +9,6 @@ curl -s -o new_blogs.json "https://$SANITY_PROJECT_ID.api.sanity.io/v1/data/expo
 
 node addDocs.js
 
-# Añadir, commitear y empujar los cambios
 cd $BLOGS_PATH
 git add .
 git commit -m "Update blog posts from Sanity"
