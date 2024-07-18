@@ -3,9 +3,9 @@ backend:
       branch: main
 media_folder: "src/assets/images/uploads" # Location where files will be stored in the repo
 collections:
-  - name: "guides" # Used in routes, e.g., /admin/collections/blog
-    label: "GUIAS" # Used in the UI
-    folder: "src/content/docs/guides" # The path to the folder where the documents are stored
+  - name: "companyInformation" # Used in routes, e.g., /admin/collections/blog
+    label: "Ingresar datos de la compañía" # Used in the UI
+    folder: "src/content/docs/companyInformation" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in frontmatter
       #- { label: "Layout", name: "layout", widget: "hidden" }
@@ -14,4 +14,48 @@ collections:
       #- { label: "Featured Image", name: "thumbnail", widget: "image" }
       #- { label: "Rating (scale of 1-5)", name: "rating", widget: "number" }
       - { label: "Body", name: "body", widget: "markdown" }
-    
+
+  - name: "team" 
+    label: "Equipo" 
+    folder: "src/content/docs/team" 
+    create: true 
+    fields: 
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  
+  - name: "billing" 
+    label: "Facturacion" 
+    folder: "src/content/docs/billing" 
+    create: true 
+    fields: 
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  
+  - name: "producs" 
+      label: "Productos" 
+      folder: "src/content/docs/products" 
+      create: true 
+      fields: 
+        - { label: "Title", name: "title", widget: "string" }
+        - { label: "Publish Date", name: "date", widget: "datetime" }
+        - { label: "Body", name: "body", widget: "markdown" }
+  
+  - name: "customers" 
+      label: "Clientes" 
+      folder: "src/content/docs/customers" 
+      create: true 
+      fields: 
+        - { label: "Title", name: "title", widget: "string" }
+        - { label: "Publish Date", name: "date", widget: "datetime" }
+        - { label: "Body", name: "body", widget: "markdown" }
+  
+  - name: "dashboard" 
+      label: "Dashboard" 
+      folder: "src/content/docs/dashboard" 
+      create: true 
+      fields: 
+        - { label: "Title", name: "title", widget: "string" }
+        - { label: "Publish Date", name: "date", widget: "datetime" }
+        - { label: "Body", name: "body", widget: "markdown" }
