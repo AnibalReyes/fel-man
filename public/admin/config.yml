@@ -25,14 +25,14 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
   
   - name: "billing" 
-    label: "Facturacion" 
-    folder: "src/content/docs/billing" 
-    create: true 
-    fields: 
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
-  
+      label: "Facturacion" 
+      folder: "src/content/docs/billing" 
+      create: true 
+      fields: 
+        - { label: "Title", name: "title", widget: "string" }
+        - { label: "Publish Date", name: "date", widget: "datetime" }
+        - { label: "Body", name: "body", widget: "markdown" }
+    
   - name: "producs" 
       label: "Productos" 
       folder: "src/content/docs/products" 
