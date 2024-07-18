@@ -48,7 +48,10 @@ export default defineConfig({
       // Each item here is one entry in the navigation menu.
       {
         label: "Guia de ejemplo",
-        link: "/guides/example/"
+        lcollapsed: true,
+        autogenerate: {
+          directory: "guides"
+        }
       }]
     }, {
       label: "Referencia",
