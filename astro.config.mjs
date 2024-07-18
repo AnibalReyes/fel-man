@@ -44,15 +44,9 @@ export default defineConfig({
     }, {
       label: "Guias",
       collapsed: true,
-      items: [
-      // Each item here is one entry in the navigation menu.
-      {
-        label: "Guia de ejemplo",
-        lcollapsed: true,
-        autogenerate: {
-          directory: "guides"
-        }
-      }]
+      autogenerate: {
+        directory: "guides"
+      }
     }, {
       label: "Referencia",
       collapsed: true,
