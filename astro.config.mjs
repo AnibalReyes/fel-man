@@ -42,18 +42,43 @@ export default defineConfig({
       label: "Inicio",
       link: "/"
     }, {
-      label: "Guias",
+      label: "Ingresar datos de la compañía",
       collapsed: true,
       autogenerate: {
-        directory: "guides"
+        directory: "companyInformation"
       }
     }, {
-      label: "Referencia",
+      label: "Equipo",
       collapsed: true,
       autogenerate: {
-        directory: "reference"
+        directory: "team"
       }
-    }]
+    }, {
+      label: "Facturacion",
+      collapsed: true,
+      autogenerate: {
+        directory: "billing"
+      }
+    }, {
+      label: "Productos",
+      collapsed: true,
+      autogenerate: {
+        directory: "products"
+      }
+    }, {
+      label: "Clientes",
+      collapsed: true,
+      autogenerate: {
+        directory: "customers"
+      }
+    }, {
+      label: "Dashboard",
+      collapsed: true,
+      autogenerate: {
+        directory: "dashboard"
+      }
+    }
+  ]
   }),
   tailwind(),
 
