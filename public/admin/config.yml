@@ -25,37 +25,37 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
   
   - name: "billing" 
-      label: "Facturacion" 
-      folder: "src/content/docs/billing" 
-      create: true 
-      fields: 
-        - { label: "Title", name: "title", widget: "string" }
-        - { label: "Publish Date", name: "date", widget: "datetime" }
-        - { label: "Body", name: "body", widget: "markdown" }
+    label: "Facturacion" 
+    folder: "src/content/docs/billing" 
+    create: true 
+    fields: 
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
     
   - name: "producs" 
-      label: "Productos" 
-      folder: "src/content/docs/products" 
-      create: true 
-      fields: 
-        - { label: "Title", name: "title", widget: "string" }
-        - { label: "Publish Date", name: "date", widget: "datetime" }
-        - { label: "Body", name: "body", widget: "markdown" }
+    label: "Productos" 
+    folder: "src/content/docs/products" 
+    create: true 
+    fields: 
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
   
   - name: "customers" 
-      label: "Clientes" 
-      folder: "src/content/docs/customers" 
-      create: true 
-      fields: 
-        - { label: "Title", name: "title", widget: "string" }
-        - { label: "Publish Date", name: "date", widget: "datetime" }
-        - { label: "Body", name: "body", widget: "markdown" }
+    label: "Clientes" 
+    folder: "src/content/docs/customers" 
+    create: true 
+    fields: 
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
   
   - name: "dashboard" 
-      label: "Dashboard" 
-      folder: "src/content/docs/dashboard" 
-      create: true 
-      fields: 
-        - { label: "Title", name: "title", widget: "string" }
-        - { label: "Publish Date", name: "date", widget: "datetime" }
-        - { label: "Body", name: "body", widget: "markdown" }
+    label: "Dashboard" 
+    folder: "src/content/docs/dashboard" 
+    create: true 
+    fields: 
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
