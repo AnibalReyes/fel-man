@@ -17,9 +17,12 @@ importers:
       '@astrojs/starlight':
         specifier: ^0.25.1
         version: 0.25.1(astro@4.11.5(typescript@5.5.3))
+      '@astrojs/starlight-tailwind':
+        specifier: ^2.0.3
+        version: 2.0.3(@astrojs/starlight@0.25.1(astro@4.11.5(typescript@5.5.3)))(@astrojs/tailwind@5.1.0(astro@4.11.5(typescript@5.5.3))(tailwindcss@3.4.6))(tailwindcss@3.4.6)
       '@astrojs/tailwind':
         specifier: ^5.1.0
-        version: 5.1.0(astro@4.11.5(typescript@5.5.3))(tailwindcss@3.4.4)
+        version: 5.1.0(astro@4.11.5(typescript@5.5.3))(tailwindcss@3.4.6)
       '@sanity/astro':
         specifier: ^3.1.4
         version: 3.1.4(@sanity/client@6.21.0)(@sanity/visual-editing@2.1.6(@sanity/client@6.21.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(astro@4.11.5(typescript@5.5.3))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(sanity@3.51.0(@types/react@18.3.3)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(styled-components@6.1.11(react-dom@18.3.1(react@18.3.1))(react@18.3.1)))
@@ -57,8 +60,8 @@ importers:
         specifier: ^0.32.5
         version: 0.32.6
       tailwindcss:
-        specifier: ^3.4.4
-        version: 3.4.4
+        specifier: ^3.4.6
+        version: 3.4.6
       typescript:
         specifier: ^5.5.3
         version: 5.5.3
@@ -124,6 +127,13 @@ packages:
 
   '@astrojs/sitemap@3.1.6':
     resolution: {integrity: sha512-1Qp2NvAzVImqA6y+LubKi1DVhve/hXXgFvB0szxiipzh7BvtuKe4oJJ9dXSqaubaTkt4nMa6dv6RCCAYeB6xaQ==}
+
+  '@astrojs/starlight-tailwind@2.0.3':
+    resolution: {integrity: sha512-ZwbdXS/9rxYlo3tKZoTZoBPUnaaqek02b341dHwOkmMT0lIR2w+8k0mRUGxnRaYtPdMcaL+nYFd8RUa8sjdyRg==}
+    peerDependencies:
+      '@astrojs/starlight': '>=0.9.0'
+      '@astrojs/tailwind': ^5.0.0
+      tailwindcss: ^3.3.3
 
   '@astrojs/starlight@0.25.1':
     resolution: {integrity: sha512-tniE870QpwDs7stJk/qb1LwE78761Fi77qF/UsWedDU90gC6gPjGOHNrbQYUABAmkQ63t3/Jpq9/kmS6sfHT0g==}
@@ -5949,8 +5959,8 @@ packages:
   symbol-tree@3.2.4:
     resolution: {integrity: sha512-9QNk5KwDF+Bvz+PyObkmSYjI5ksVUYtjW7AU22r2NKcfLJcXp96hkDWU3+XndOsUb+AQ9QhfzfCT2O+CNWT5Tw==}
 
-  tailwindcss@3.4.4:
-    resolution: {integrity: sha512-ZoyXOdJjISB7/BcLTR6SEsLgKtDStYyYZVLsUtWChO4Ps20CBad7lfJKVDiejocV4ME1hLmyY0WJE3hSDcmQ2A==}
+  tailwindcss@3.4.6:
+    resolution: {integrity: sha512-1uRHzPB+Vzu57ocybfZ4jh5Q3SdlH7XW23J5sQoM9LhE9eIOlzxer/3XPSsycvih3rboRsvt0QCmzSrqyOYUIA==}
     engines: {node: '>=14.0.0'}
     hasBin: true
 
@@ -6826,6 +6836,12 @@ snapshots:
       stream-replace-string: 2.0.0
       zod: 3.23.8
 
+  '@astrojs/starlight-tailwind@2.0.3(@astrojs/starlight@0.25.1(astro@4.11.5(typescript@5.5.3)))(@astrojs/tailwind@5.1.0(astro@4.11.5(typescript@5.5.3))(tailwindcss@3.4.6))(tailwindcss@3.4.6)':
+    dependencies:
+      '@astrojs/starlight': 0.25.1(astro@4.11.5(typescript@5.5.3))
+      '@astrojs/tailwind': 5.1.0(astro@4.11.5(typescript@5.5.3))(tailwindcss@3.4.6)
+      tailwindcss: 3.4.6
+
   '@astrojs/starlight@0.25.1(astro@4.11.5(typescript@5.5.3))':
     dependencies:
       '@astrojs/mdx': 3.1.2(astro@4.11.5(typescript@5.5.3))
@@ -6852,13 +6868,13 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@astrojs/tailwind@5.1.0(astro@4.11.5(typescript@5.5.3))(tailwindcss@3.4.4)':
+  '@astrojs/tailwind@5.1.0(astro@4.11.5(typescript@5.5.3))(tailwindcss@3.4.6)':
     dependencies:
       astro: 4.11.5(typescript@5.5.3)
       autoprefixer: 10.4.19(postcss@8.4.39)
       postcss: 8.4.39
       postcss-load-config: 4.0.2(postcss@8.4.39)
-      tailwindcss: 3.4.4
+      tailwindcss: 3.4.6
     transitivePeerDependencies:
       - ts-node
 
@@ -14163,7 +14179,7 @@ snapshots:
 
   symbol-tree@3.2.4: {}
 
-  tailwindcss@3.4.4:
+  tailwindcss@3.4.6:
     dependencies:
       '@alloc/quick-lru': 5.2.0
       arg: 5.0.2

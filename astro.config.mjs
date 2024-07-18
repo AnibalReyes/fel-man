@@ -7,6 +7,15 @@ import react from "@astrojs/react";
 export default defineConfig({
   integrations: [starlight({
     title: "FACTURED",
+    defaultLocale: 'es',
+    locales: {
+      es: {
+        label: 'Español',
+      },
+    },
+    customCss: [
+      './src/styles/globals.css',
+    ],
     description: "Manual de referencia pa emicion de facturas electronicas",
     favicon: "/favicon.ico",
     defaultLocale: 'es',
@@ -80,7 +89,9 @@ export default defineConfig({
     }
   ]
   }),
-  tailwind(),
+  tailwind({
+    applyBaseStyles: false,
+  }),
 
   react()
 ]
