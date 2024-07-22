@@ -51,28 +51,28 @@ export default defineConfig({
       label: "Inicio",
       link: "/"
     }, {
-      label: "Ingresar datos de la compañía",
+      label: "Inicio de sesión",
       collapsed: true,
       autogenerate: {
-        directory: "companyInformation"
+        directory: "login"
       }
     }, {
-      label: "Equipo",
+      label: "Conceptos",
       collapsed: true,
       autogenerate: {
-        directory: "team"
+        directory: "concepts"
       }
     }, {
-      label: "Facturacion",
+      label: "Transmisión",
       collapsed: true,
       autogenerate: {
-        directory: "billing"
+        directory: "transmission"
       }
     }, {
-      label: "Productos",
+      label: "Consulta de Transmisiones",
       collapsed: true,
       autogenerate: {
-        directory: "products"
+        directory: "transmissionConsultation"
       }
     }, {
       label: "Clientes",
@@ -81,10 +81,34 @@ export default defineConfig({
         directory: "customers"
       }
     }, {
-      label: "Dashboard",
+      label: "Usuarios",
       collapsed: true,
       autogenerate: {
-        directory: "dashboard"
+        directory: "users"
+      }
+    }, {
+      label: "Sucursales",
+      collapsed: true,
+      autogenerate: {
+        directory: "branchOffices"
+      }
+    }, {
+      label: "Puntos de Venta",
+      collapsed: true,
+      autogenerate: {
+        directory: "pointsOfSale"
+      }
+    }, {
+      label: "Productos",
+      collapsed: true,
+      autogenerate: {
+        directory: "products"
+      }
+    }, {
+      label: "Roles y Permisos",
+      collapsed: true,
+      autogenerate: {
+        directory: "rolesAndPermissions"
       }
     }
   ]

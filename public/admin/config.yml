@@ -96,3 +96,12 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "rolesAndPermissions" 
+    label: "Roles y Permisos" 
+    folder: "src/content/docs/rolesAndPermissions" 
+    create: true 
+    fields: 
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
