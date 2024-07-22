@@ -1,8 +1,8 @@
 ---
-title: Conceptos
+title: 2.1 Conceptos Básicos
 date: 2024-07-22T15:07:00.000Z
 ---
-## Conceptos básicos
+
 
 **Documento Tributario Electrónico (D.T.E.)**
 
