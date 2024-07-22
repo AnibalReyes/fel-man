@@ -1,109 +1,73 @@
 ---
-title: Consulta de Transmisiones
+title: 3.1 Introducción
 date: 2024-07-22T15:09:00.000Z
 ---
-### 4.1 Introducción
+La transmisión en la plataforma FEL 2 es el proceso mediante el cual se envía información fiscal, como facturas electrónicas, notas de crédito y otros documentos tributarios electrónicos (DTE), a la entidad correspondiente para su validación y registro. Es fundamental para cumplir con las normativas fiscales y garantizar que las transacciones sean reconocidas oficialmente.
 
-La sección de "Consulta de Transmisiones" permite a los usuarios revisar y gestionar todas las transmisiones de documentos tributarios electrónicos (DTE) realizadas a través de la plataforma FEL 2. Esto incluye verificar el estado de las transmisiones, buscar documentos específicos y generar reportes detallados.
+### 3.1.2 Acceso a la Sección de Transmisión
 
-### 4.2 Acceso a la Sección de Consulta de Transmisiones
-Navegación:
-Desde el menú principal de la plataforma, seleccione la opción "Transmisión" y luego "Consulta".
+**Navegación:**
 
-### 4.3 Interfaz de Consulta de Transmisiones
-La interfaz de consulta de transmisiones presenta una lista de todas las transmisiones realizadas, junto con varias herramientas y filtros para facilitar la búsqueda y gestión de estos documentos.
+Desde el menú principal de la plataforma, seleccione la opción "Transmisión". Esto lo llevará a la pantalla de transmisión donde podrá gestionar los documentos tributarios electrónicos.
 
-**Barra de Búsqueda:**
+### 3.1.3 Tipos de Documentos Tributarios Electrónicos (DTE)
 
-Utilice la barra de búsqueda para encontrar transmisiones específicas ingresando palabras clave relevantes.
+* **[Factura de Consumidor Final (FCF)](https://www.notion.so/Factura-de-Consumidor-Final-FCF-c28bac0aa6ba478bbcd0b41ce6c1c61f?pvs=21)**
+* **[Comprobante de Crédito Fiscal (CCF)](https://www.notion.so/Comprobante-de-Cr-dito-Fiscal-CCF-02e9119c4a404061af4fba1652f06db8?pvs=21)**
+* **[Nota de Remisión (NR)](https://www.notion.so/Nota-de-Remisi-n-NR-890052e819b74f3485260a285b815342?pvs=21)**
+* **[Nota de Crédito (NC)](https://www.notion.so/Nota-de-Cr-dito-NC-5804271dfb464525836b28cd4846ca6d?pvs=21)**
+* **[Nota de Débito (ND)](https://www.notion.so/Nota-de-D-bito-ND-8a524cd63dbc4233ae6089021135a1d5?pvs=21)**
+* **[Comprobante de Retención (CR)](https://www.notion.so/Comprobante-de-Retenci-n-CR-0293e721a371488a96fd2a33366c8db1?pvs=21)**
+* **[Comprobante de Liquidación (CL)](https://www.notion.so/Comprobante-de-Liquidaci-n-CL-8df1ffbb05044c948d776f5604b952be?pvs=21)**
+* **[Documento Contable de Liquidación (DCL)](https://www.notion.so/Documento-Contable-de-Liquidaci-n-DCL-79e87f67922547b9868b9c41222486c8?pvs=21)**
+* **[Factura de Exportación (FEX)](https://www.notion.so/Factura-de-Exportaci-n-FEX-642fe05b0e47455dafe24e218ad368fc?pvs=21)**
+* **[Factura de Sujeto Excluido (FSE)](https://www.notion.so/Factura-de-Sujeto-Excluido-FSE-29a1370b6be34e80923a46dc8de436c4?pvs=21)**
+* **[Comprobante de Donación (CD)](https://www.notion.so/Comprobante-de-Donaci-n-CD-8332528cedaa48b28272441ab9849949?pvs=21)**
 
-**Filtros de Búsqueda:**
+### 3.1.4 Procedimiento de Transmisión
 
-- Estado: Filtre las transmisiones por su estado (Pendiente, Aceptado, Rechazado, etc.).
+1. **Seleccionar Tipo de Documento:** 
 
-- Sub Estado: Filtre por subestados específicos dentro de cada  estado principal.
-- Documento: Filtre por tipo de documento (Factura, Nota de Crédito, Nota de Débito, etc.).
-- Fecha de Creación: Seleccione un rango de fechas para ver las transmisiones enviadas en ese periodo.
-- Número de Control: Ingrese el número de control para buscar una transmisión específica.
-- ID Externo: Filtre por identificadores externos asignados a las transmisiones.
-- Sucursal y Punto de Venta: Filtre por sucursal y punto de venta asociados a las transmisiones.
+   * En la pantalla de transmisión, seleccione el tipo de documento que desea transmitir desde el menú desplegable.
+2. **Completar Datos Requeridos:**
 
-**Lista de Resultados:**
+   * Datos del Emisor: Información de la empresa emisora (nombre, dirección, NIT, etc.).
+   * Datos del Receptor: Información del cliente o entidad receptora (nombre, dirección, NIT, etc.).
+   * Detalle del Documento: Lista de productos o servicios, cantidades, precios unitarios, descuentos aplicables, impuestos, etc.
+   * Documentos Relacionados: Referencias a documentos anteriores, si aplica (por ejemplo, facturas corregidas por una nota de crédito).
+   * Otros Datos Relevantes: Información adicional que pueda ser requerida según el tipo de documento.
+3. **Verificación de Datos:**
 
-La lista muestra detalles como la fecha de creación, estado, monto, código de generación, número de control, ID externo, sucursal y punto de venta.
+   * Antes de enviar el documento, revise cuidadosamente toda la información ingresada para asegurarse de que sea correcta y completa.
+4. **Enviar Transmisión:**
 
-### 4.4 Procedimiento para Consultar Transmisiones
+   * Haga clic en el botón "Enviar". La plataforma procesará la información y enviará el documento a la entidad fiscal correspondiente.
+5. **Confirmación de Envío:**
 
-**Acceder a la Sección:**
+   * Después de enviar la transmisión, la plataforma mostrará un mensaje de confirmación indicando que el documento ha sido enviado exitosamente. También recibirá un número de referencia para seguimiento.
 
-Navegue a "Transmisión" y luego "Consulta" en el menú principal.
+### 3.1.5 Verificación de la Transmisión
 
-**Aplicar Filtros:**
+**Estado de la Transmisión**
 
-Utilice los filtros disponibles para especificar su búsqueda. Por ejemplo, puede seleccionar un rango de fechas y un tipo de documento.
+La plataforma actualizará el estado de la transmisión (pendiente, aceptado, rechazado, etc.) en tiempo real.
+Puede revisar el estado de sus transmisiones en la sección "Consulta de DTE".
 
-**Ejecutar Búsqueda:**
+**Corrección de Errores:**
 
-Haga clic en el botón "Buscar". La plataforma mostrará una lista de transmisiones que coinciden con los criterios de búsqueda.
+Si la transmisión es rechazada, revise los detalles del error proporcionado por la plataforma.
+Corrija los errores y vuelva a enviar la transmisión.
 
-**Revisar Resultados:**
+### 3.1.6 Preguntas Frecuentes
 
-La lista de resultados incluirá detalles básicos de cada transmisión, como la fecha, tipo de documento, estado, y número de control.
+**¿Qué hago si mi transmisión es rechazada?**
 
-### 4.5 Ver Detalles de una Transmisión
-**Seleccionar Transmisión:**
+Revise el mensaje de error para entender la razón del rechazo, corrija la información incorrecta y vuelva a enviar la transmisión.
 
-Haga clic en una transmisión específica de la lista de resultados para ver sus detalles completos.
-Detalles de la Transmisión:
+**¿Cómo puedo verificar si mi transmisión fue exitosa?**
 
-La pantalla de detalles mostrará toda la información relacionada con la transmisión, incluyendo los datos del emisor y receptor, el detalle del documento, y el estado de la transmisión.
+Consulte el estado de la transmisión en la sección "Consulta de Transmisiones". Un estado "aceptado" indica que la transmisión fue exitosa.
 
-### 4.6 Acciones Disponibles
-**Reenviar Transmisión:**
+**¿Puedo modificar un documento después de enviarlo?**
 
-Si una transmisión ha sido rechazada, puede corregir los errores y reenviarla.
-Haga clic en "Reenviar", realice las correcciones necesarias y vuelva a enviar la transmisión.
-
-**Descargar Documento:**
-
-Puede descargar una copia del documento transmitido.
-Haga clic en "Descargar" para guardar una copia en su dispositivo.
-Generar Reportes:
-
-Puede generar reportes de transmisiones basados en los filtros aplicados.
-Haga clic en "Generar Reporte" para crear un reporte en formato PDF o Excel.
-
-### 4.7 Manejo de Errores
-
-**Transmisiones Rechazadas:**
-
-Si una transmisión es rechazada, revise el mensaje de error proporcionado por la plataforma.
-Corrija la información incorrecta y vuelva a enviar la transmisión.
-Errores Comunes:
-
-**Campos Incompletos:**
-
-Asegúrese de que todos los campos obligatorios estén completos.
-Datos Incorrectos: Verifique que la información ingresada sea correcta y cumpla con las normativas fiscales.
-
-### 4.8 Seguridad de la Información
-**Protección de Datos:**
-
-Mantenga la información sensible protegida mediante el uso de contraseñas seguras y políticas de acceso restringido.
-Solo usuarios autorizados deben tener acceso a la sección de consulta de transmisiones.
-Auditoría:
-
-La plataforma registra todas las acciones realizadas en la sección de consulta de transmisiones para fines de auditoría y seguridad.
-
-### 4.9 Preguntas Frecuentes
-**¿Cómo puedo encontrar una transmisión específica rápidamente?**
-
-Utilice los filtros de búsqueda para especificar los criterios y reducir la lista de resultados.
-¿Qué debo hacer si no encuentro una transmisión en la lista?
-
-Verifique que los filtros de búsqueda estén configurados correctamente. Asegúrese de que la transmisión se realizó en el periodo seleccionado y que el tipo de documento y estado sean correctos.
-
-**¿Puedo generar un reporte de todas las transmisiones en un periodo específico?**
-
-Sí, aplique los filtros de fecha para seleccionar el periodo deseado y haga clic en "Generar Reporte".
-
+No, una vez que un documento ha sido transmitido y aceptado, no puede ser modificado. Si necesita hacer cambios, debe emitir un documento de ajuste, como una nota de crédito o débito.
