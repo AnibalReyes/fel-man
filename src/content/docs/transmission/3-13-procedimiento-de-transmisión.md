@@ -43,3 +43,7 @@ Puede revisar el estado de sus transmisiones en la sección "Consulta de DTE".
 
 Si la transmisión es rechazada, revise los detalles del error proporcionado por la plataforma.
 Corrija los errores y vuelva a enviar la transmisión.
+
+
+
+![doc](/images/uploads/consultar_documentos.gif "Consultar documento")
