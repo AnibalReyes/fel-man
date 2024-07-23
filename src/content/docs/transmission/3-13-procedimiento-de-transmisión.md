@@ -7,6 +7,7 @@ date: 2024-07-23T10:38:00.000Z
 1. **Seleccionar Tipo de Documento:** 
 
    * En la pantalla de transmisión, seleccione el tipo de documento que desea transmitir desde el menú desplegable.
+   * ![doc](/images/uploads/tipo_documento.gif "Tipo de documento")
 2. **Completar Datos Requeridos:**
 
    * Datos del Emisor: Información de la empresa emisora (nombre, dirección, NIT, etc.).
