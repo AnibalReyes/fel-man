@@ -10,7 +10,6 @@ date: 2024-07-23T10:38:00.000Z
 
  ![](/images/uploads/tipo_documento.gif)
 
-
 2. **Completar Datos Requeridos:**
 
    * Datos del Emisor: Información de la empresa emisora (nombre, dirección, NIT, etc.).
@@ -24,6 +23,11 @@ date: 2024-07-23T10:38:00.000Z
 4. **Enviar Transmisión:**
 
    * Haga clic en el botón "Enviar". La plataforma procesará la información y enviará el documento a la entidad fiscal correspondiente.
+
+![](<>)
+
+![](/images/uploads/enviar_documento.gif)
+
 5. **Confirmación de Envío:**
 
    * Después de enviar la transmisión, la plataforma mostrará un mensaje de confirmación indicando que el documento ha sido enviado exitosamente. También recibirá un número de referencia para seguimiento.
