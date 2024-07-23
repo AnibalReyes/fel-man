@@ -22,3 +22,4 @@ date: 2024-07-23T08:54:00.000Z
    * Si las credenciales son correctas, será redirigido al dashboard principal.
    * Si las credenciales son incorrectas, recibirá un mensaje de error indicando que el nombre de usuario o la contraseña no son correctos.
 
+![login](/images/uploads/inicio_de_sesion.gif "Inicio de sesión")
