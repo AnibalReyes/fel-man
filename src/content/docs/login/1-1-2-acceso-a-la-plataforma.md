@@ -1,5 +1,5 @@
 ---
-title: 1.1.2 Acceso a la Plataforma
+title: 1.2 Acceso a la Plataforma
 date: 2024-07-23T08:50:00.000Z
 ---
 1. **Abrir la Plataforma:**
