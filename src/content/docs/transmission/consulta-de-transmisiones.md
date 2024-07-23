@@ -12,17 +12,17 @@ Desde el menú principal de la plataforma, seleccione la opción "Transmisión".
 
 ### 3.1.3 Tipos de Documentos Tributarios Electrónicos (DTE)
 
-* **[Factura de Consumidor Final (FCF)](https://www.notion.so/Factura-de-Consumidor-Final-FCF-c28bac0aa6ba478bbcd0b41ce6c1c61f?pvs=21)**
-* **[Comprobante de Crédito Fiscal (CCF)](https://www.notion.so/Comprobante-de-Cr-dito-Fiscal-CCF-02e9119c4a404061af4fba1652f06db8?pvs=21)**
-* **[Nota de Remisión (NR)](https://www.notion.so/Nota-de-Remisi-n-NR-890052e819b74f3485260a285b815342?pvs=21)**
-* **[Nota de Crédito (NC)](https://www.notion.so/Nota-de-Cr-dito-NC-5804271dfb464525836b28cd4846ca6d?pvs=21)**
-* **[Nota de Débito (ND)](https://www.notion.so/Nota-de-D-bito-ND-8a524cd63dbc4233ae6089021135a1d5?pvs=21)**
-* **[Comprobante de Retención (CR)](https://www.notion.so/Comprobante-de-Retenci-n-CR-0293e721a371488a96fd2a33366c8db1?pvs=21)**
-* **[Comprobante de Liquidación (CL)](https://www.notion.so/Comprobante-de-Liquidaci-n-CL-8df1ffbb05044c948d776f5604b952be?pvs=21)**
-* **[Documento Contable de Liquidación (DCL)](https://www.notion.so/Documento-Contable-de-Liquidaci-n-DCL-79e87f67922547b9868b9c41222486c8?pvs=21)**
-* **[Factura de Exportación (FEX)](https://www.notion.so/Factura-de-Exportaci-n-FEX-642fe05b0e47455dafe24e218ad368fc?pvs=21)**
-* **[Factura de Sujeto Excluido (FSE)](https://www.notion.so/Factura-de-Sujeto-Excluido-FSE-29a1370b6be34e80923a46dc8de436c4?pvs=21)**
-* **[Comprobante de Donación (CD)](https://www.notion.so/Comprobante-de-Donaci-n-CD-8332528cedaa48b28272441ab9849949?pvs=21)**
+* **[Factura de Consumidor Final (FCF)](https://fel-man.netlify.app/transmission/3-2-factura-de-consumidor-final-fcf/)**
+* **[Comprobante de Crédito Fiscal (CCF)](https://fel-man.netlify.app/transmission/3-3-comprobante-de-cr%C3%A9dito-fiscal-ccf/)**
+* **[Nota de Remisión (NR)](https://fel-man.netlify.app/transmission/3-4-nota-de-remisi%C3%B3n-nr/)**
+* **[Nota de Crédito (NC)](https://fel-man.netlify.app/transmission/3-5-nota-de-cr%C3%A9dito-nc/)**
+* **[Nota de Débito (ND)](https://fel-man.netlify.app/transmission/3-6-nota-de-d%C3%A9bito-nd/)**
+* **[Comprobante de Retención (CR)](https://fel-man.netlify.app/transmission/3-7-comprobante-de-retenci%C3%B3n-cr/)**
+* **[Comprobante de Liquidación (CL)](https://fel-man.netlify.app/transmission/3-8-comprobante-de-liquidaci%C3%B3n-cl/)**
+* **[Documento Contable de Liquidación (DCL)](https://fel-man.netlify.app/transmission/3-9-documento-contable-de-liquidaci%C3%B3n-dcl/)**
+* **[Factura de Exportación (FEX)](https://fel-man.netlify.app/transmission/3-10-factura-de-exportaci%C3%B3n-fex/)**
+* **[Factura de Sujeto Excluido (FSE)](https://fel-man.netlify.app/transmission/3-11-factura-de-sujeto-excluido-fse/)**
+* **[Comprobante de Donación (CD)](https://fel-man.netlify.app/transmission/3-12-comprobante-de-donaci%C3%B3n-cd/)**
 
 ### 3.1.4 Procedimiento de Transmisión
 
