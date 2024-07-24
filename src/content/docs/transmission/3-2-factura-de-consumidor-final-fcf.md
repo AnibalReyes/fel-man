@@ -1,6 +1,6 @@
 ---
 title: 3.2 Factura de Consumidor Final (FCF)
-date: 2024-07-22T16:11:00.000Z
+date: 2024-07-04T10:11:00.000Z
 ---
 ## 3.2.1 Resumen
 
