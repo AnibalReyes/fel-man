@@ -24,8 +24,6 @@ date: 2024-07-23T10:38:00.000Z
 
    * Haga clic en el botón "Enviar". La plataforma procesará la información y enviará el documento a la entidad fiscal correspondiente.
 
-![](<>)
-
 ![](/images/uploads/enviar_documento.gif)
 
 5. **Confirmación de Envío:**
