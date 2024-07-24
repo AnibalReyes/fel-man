@@ -1,6 +1,8 @@
 ---
 title: 3.14 Preguntas Frecuentes
 date: 2024-07-23T10:58:00.000Z
+sidebar:
+    order: 14
 ---
 **¿Qué hago si mi transmisión es rechazada?**
 

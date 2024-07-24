@@ -1,6 +1,8 @@
 ---
 title: 3.5 Nota de Crédito (NC)
 date: 2024-07-22T16:37:00.000Z
+sidebar:
+    order: 5
 ---
 ## 3.5.1 Resumen
 

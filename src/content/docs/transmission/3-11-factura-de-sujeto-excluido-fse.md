@@ -1,6 +1,8 @@
 ---
 title: 3.11 Factura de Sujeto Excluido (FSE)
 date: 2024-07-22T16:47:00.000Z
+sidebar:
+    order: 11
 ---
 ## 3.11.1 Resumen
 

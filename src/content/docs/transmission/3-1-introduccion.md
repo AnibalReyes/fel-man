@@ -1,6 +1,8 @@
 ---
 title: 3.1 Introducción
 date: 2024-07-22T15:09:00.000Z
+sidebar:
+    order: 1
 ---
 La transmisión en la plataforma FEL 2 es el proceso mediante el cual se envía información fiscal, como facturas electrónicas, notas de crédito y otros documentos tributarios electrónicos (DTE), a la entidad correspondiente para su validación y registro. Es fundamental para cumplir con las normativas fiscales y garantizar que las transacciones sean reconocidas oficialmente.
 

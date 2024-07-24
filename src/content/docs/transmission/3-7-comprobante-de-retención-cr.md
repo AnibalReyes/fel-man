@@ -1,6 +1,8 @@
 ---
 title: 3.7 Comprobante de Retención (CR)
 date: 2024-07-22T16:40:00.000Z
+sidebar:
+    order: 7
 ---
 ## 3.7.1 Conceptos básicos
 

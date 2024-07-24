@@ -1,6 +1,8 @@
 ---
 title: 3.13 Procedimiento de Transmisión
 date: 2024-07-23T10:38:00.000Z
+sidebar:
+    order: 13
 ---
 ## 3.13.1 Generar Transmisión
 

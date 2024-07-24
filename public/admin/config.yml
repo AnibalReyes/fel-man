@@ -42,6 +42,11 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - label: "navegacion"
+        name: "sidebar"
+        widget: "object"
+        fields: 
+          - { label: "Orden", name: "order", widget: "number", default: 1 }
   
   - name: "transmissionConsultation" 
     label: "Consulta de Transmisiones" 
