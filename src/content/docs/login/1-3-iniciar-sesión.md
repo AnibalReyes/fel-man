@@ -1,7 +1,6 @@
 ---
 title: 1.3 Iniciar Sesión
 date: 2024-07-23T08:54:00.000Z
-weight: 20
 ---
 ## 1.3.1 Ingresar Credenciales
 
