@@ -1,6 +1,8 @@
 ---
 import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import Intro from '../content/docs/login/1-1-introducción.md'
 ---
 
-<StarlightPage frontmatter={{ title: '' }}>
+<StarlightPage frontmatter={{ title: '1.1 Introducción',next:{label:"1.2 Acceso a la Plataforma",link:"../login/1-2-acceso-a-la-plataforma"}}}>
+   <Intro/> 
 </StarlightPage>

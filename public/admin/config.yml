@@ -24,6 +24,11 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - label: "navegacion"
+        name: "sidebar"
+        widget: "object"
+        fields: 
+          - { label: "Orden", name: "order", widget: "number", default: 1 }
   
   - name: "concepts" 
     label: "Conceptos" 
@@ -33,6 +38,11 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - label: "navegacion"
+        name: "sidebar"
+        widget: "object"
+        fields: 
+          - { label: "Orden", name: "order", widget: "number", default: 1 }
     
   - name: "transmission" 
     label: "Transmision" 
@@ -56,6 +66,11 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - label: "navegacion"
+        name: "sidebar"
+        widget: "object"
+        fields: 
+          - { label: "Orden", name: "order", widget: "number", default: 1 }
   
   - name: "users" 
     label: "Usuarios" 
@@ -65,6 +80,11 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - label: "navegacion"
+        name: "sidebar"
+        widget: "object"
+        fields: 
+          - { label: "Orden", name: "order", widget: "number", default: 1 }
 
   - name: "branchOffices" 
     label: "Sucursales" 
@@ -74,6 +94,11 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - label: "navegacion"
+        name: "sidebar"
+        widget: "object"
+        fields: 
+          - { label: "Orden", name: "order", widget: "number", default: 1 }
 
   - name: "pointsOfSale" 
     label: "Puntos de Venta" 
@@ -83,6 +108,11 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - label: "navegacion"
+        name: "sidebar"
+        widget: "object"
+        fields: 
+          - { label: "Orden", name: "order", widget: "number", default: 1 }
   
   - name: "customers" 
     label: "Clientes" 
@@ -92,6 +122,11 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - label: "navegacion"
+        name: "sidebar"
+        widget: "object"
+        fields: 
+          - { label: "Orden", name: "order", widget: "number", default: 1 }
 
   - name: "products" 
     label: "Productos" 
@@ -101,6 +136,11 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - label: "navegacion"
+        name: "sidebar"
+        widget: "object"
+        fields: 
+          - { label: "Orden", name: "order", widget: "number", default: 1 }
 
   - name: "rolesAndPermissions" 
     label: "Roles y Permisos" 
@@ -110,3 +150,8 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - label: "navegacion"
+        name: "sidebar"
+        widget: "object"
+        fields: 
+          - { label: "Orden", name: "order", widget: "number", default: 1 }
