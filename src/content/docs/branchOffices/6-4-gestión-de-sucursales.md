@@ -45,12 +45,14 @@ sidebar:
 
    * Después de realizar los cambios, haga clic en "Guardar" para actualizar la información de la sucursal.
 
-     ![branch]( "Editar datos de sucursal")
+     ![branch](/images/uploads/editar_datos_sucursal.gif "Editar datos de sucursal")
 
 ## 6.4.3 Consulta de Sucursales
+
 1. **Seleccionar sucursal:**
 
    * En la pantalla de "Lista de sucursales", haga click en acciones -> ver detalles
+
 ## 6.4.4 Eliminación de Sucursales
 
 1. **Seleccionar Sucursal:**
