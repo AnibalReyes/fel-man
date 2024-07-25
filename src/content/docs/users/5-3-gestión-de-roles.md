@@ -17,6 +17,8 @@ sidebar:
    * **Nombre:** Ingrese un nombre para el rol (ej. Administrador).
    * **Código:** Ingrese un código para el rol (ej. ADMIN).
    * **Permisos:** Seleccione los permisos específicos para el rol, incluyendo acceso a usuarios, permisos, compañías, sucursales, clientes, productos, DTEs, inventarios, y otros.
+
+     ![create](/images/uploads/crear_rol.gif "Crear rol")
 3. **Registrar Rol:**
 
    * Después de seleccionar todos los permisos necesarios, haga clic en "Registrar". El nuevo rol aparecerá en la lista de roles.
