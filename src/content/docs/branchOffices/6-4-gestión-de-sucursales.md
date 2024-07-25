@@ -36,7 +36,9 @@ sidebar:
 
    * Después de realizar los cambios, haga clic en "Guardar" para actualizar la información de la sucursal.
 
-## 6.4.3 Eliminación de Sucursales
+## 6.4.3 Consulta de Sucursales
+
+## 6.4.4 Eliminación de Sucursales
 
 1. **Seleccionar Sucursal:**
 
@@ -45,7 +47,7 @@ sidebar:
 
    * Haga clic en el botón "Eliminar". Confirme la acción para remover la sucursal del sistema.
 
-## 6.4.4 Consideraciones Especiales
+## 6.4.5 Consideraciones Especiales
 
 1. **Código Ministerio de Hacienda:**
 
