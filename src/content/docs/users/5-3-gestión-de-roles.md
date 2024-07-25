@@ -23,6 +23,8 @@ sidebar:
 
    * Después de seleccionar todos los permisos necesarios, haga clic en "Registrar". El nuevo rol aparecerá en la lista de roles.
 
+     ![rol](/images/uploads/registrar_rol.gif "Registrar rol")
+
 ## 5.3.2 Asignación de Roles a Usuarios
 
 1. **Editar Usuario:**
