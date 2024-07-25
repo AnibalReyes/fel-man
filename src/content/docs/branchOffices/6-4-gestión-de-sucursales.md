@@ -53,6 +53,8 @@ sidebar:
 
    * En la pantalla de "Lista de sucursales", haga click en acciones -> ver detalles
 
+     ![branch](/images/uploads/detalles_sucursal.gif "Detalles Sucursal")
+
 ## 6.4.4 Eliminación de Sucursales
 
 1. **Seleccionar Sucursal:**
