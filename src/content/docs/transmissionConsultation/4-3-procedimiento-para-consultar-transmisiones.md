@@ -49,25 +49,15 @@ Generar Reportes:
 Puede generar reportes de transmisiones basados en los filtros aplicados.
 Haga clic en "Generar Reporte" para crear un reporte en formato PDF o Excel.
 
-## 4.3.3 Manejo de Errores
 
-**Transmisiones Rechazadas:**
 
-Si una transmisión es rechazada, revise el mensaje de error proporcionado por la plataforma.
-Corrija la información incorrecta y vuelva a enviar la transmisión.
-Errores Comunes:
-
-**Campos Incompletos:**
-
-Asegúrese de que todos los campos obligatorios estén completos.
-Datos Incorrectos: Verifique que la información ingresada sea correcta y cumpla con las normativas fiscales.
-
-## 4.3.4 Seguridad de la Información
+## 4.3.3 Seguridad de la Información
 
 **Protección de Datos:**
 
 Mantenga la información sensible protegida mediante el uso de contraseñas seguras y políticas de acceso restringido.
 Solo usuarios autorizados deben tener acceso a la sección de consulta de transmisiones.
-Auditoría:
+
+**Auditoría:**
 
 La plataforma registra todas las acciones realizadas en la sección de consulta de transmisiones para fines de auditoría y seguridad.
