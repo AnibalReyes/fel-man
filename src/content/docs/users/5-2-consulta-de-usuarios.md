@@ -49,6 +49,8 @@ sidebar:
 
    * Después de realizar los cambios, haga clic en "Guardar" para actualizar la información del usuario.
 
+![edit](/images/uploads/editar_usuarios.gif "Editar usuario")
+
 ## 5.2.4 Eliminación de Usuarios
 
 1. **Seleccionar Usuario:**
