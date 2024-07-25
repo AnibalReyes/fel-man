@@ -45,3 +45,17 @@ sidebar:
 
    * Haga clic en el botón "Eliminar". Confirme la acción para remover la sucursal del sistema.
 
+## 6.4.4 Consideraciones Especiales
+
+1. **Código Ministerio de Hacienda:**
+
+   * Este código es único y proporcionado por el Ministerio de Hacienda para identificar oficialmente la sucursal.
+2. **Ubicación Precisa:**
+
+   * Asegúrese de ingresar la dirección completa y precisa para facilitar la localización de la sucursal.
+3. **Teléfono de Contacto:**
+
+   * Proporcione un número de teléfono válido para que la sucursal pueda ser contactada fácilmente.
+
+
+
