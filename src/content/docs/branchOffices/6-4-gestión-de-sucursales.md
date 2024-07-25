@@ -64,6 +64,8 @@ sidebar:
 
    * Haga clic en el botón "Eliminar". Confirme la acción para remover la sucursal del sistema.
 
+     ![branch](/images/uploads/eliminar_sucursal.gif "Eliminar Sucursal")
+
 ## 6.4.5 Consideraciones Especiales
 
 1. **Código Ministerio de Hacienda:**
