@@ -5,9 +5,12 @@ sidebar:
   order: 3
 ---
 ## 5.3.1 Crear Rol
+
 1. **Acceder a la Sección de Roles:**
 
    * Desde el menú principal, seleccione "Equipo" y luego "Roles".
+
+     ![rol](/images/uploads/pantalla_rol.gif "Pantalla rol")
 2. **Crear Rol:**
 
    * Haga clic en "Crear Rol".
@@ -29,4 +32,3 @@ sidebar:
 3. **Guardar Cambios:**
 
    * Haga clic en "Guardar" para actualizar el rol del usuario.
-
