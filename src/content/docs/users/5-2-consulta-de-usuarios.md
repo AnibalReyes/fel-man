@@ -29,6 +29,8 @@ sidebar:
    * **Punto de Venta por Defecto:** Seleccione el punto de venta principal del usuario.
    * **Contraseña:** Ingrese una contraseña segura.
    * **Confirmar Contraseña:** Reingrese la contraseña para confirmarla.
+
+     ![create user](/images/uploads/crea_usuario.gif "Crear usuario")
 3. **Registrar el Usuario:**
 
    * Después de completar todos los campos, haga clic en el botón "Registrar". El nuevo usuario aparecerá en la lista de usuarios.
