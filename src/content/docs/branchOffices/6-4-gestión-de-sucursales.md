@@ -29,6 +29,8 @@ sidebar:
 
    * Después de completar todos los campos, haga clic en el botón "Registrar". La nueva sucursal aparecerá en la lista de sucursales.
 
+     ![branch](/images/uploads/registrar_sucursal.gif "Registrar sucursal")
+
 ## 6.4.2 Edición de Sucursales
 
 1. **Seleccionar Sucursal:**
