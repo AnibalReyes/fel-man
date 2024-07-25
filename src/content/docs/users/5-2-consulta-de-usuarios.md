@@ -35,23 +35,7 @@ sidebar:
 
    * Después de completar todos los campos, haga clic en el botón "Registrar". El nuevo usuario aparecerá en la lista de usuarios.
 
-     ![user](/images/uploads/registrar_usuarios.gif "Registrar usuario")
-
-## 5.2.1 Pasos para crear un Usuario
-
-![Usuario](/images/uploads/acciones-usuario-1.png "Crear Usuario paso 1")
-
-![Usuario](/images/uploads/acciones-usuario2.png "Crear usuario paso 2 ")
-
-## 5.2.1 Pasos para editar un Usuario
-
-1. Abrir el menú de acciones en la tabla 
-
-![Usuario](/images/uploads/acciones-usuario-3.png "Editar Usuario paso 1")
-
-![Usuario](/images/uploads/acciones-usuario-4.png "Crear usuario paso 2")
-
-![Usuario](/images/uploads/acciones-usuario-5.png "Crear Usuario paso 3")
+![Usuario](/images/uploads/registrar_usuarios.gif "Crear Usuario paso 1")
 
 ## 5.2.3 Edición de Usuarios
 
