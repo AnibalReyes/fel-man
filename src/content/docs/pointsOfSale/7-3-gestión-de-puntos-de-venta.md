@@ -34,6 +34,8 @@ sidebar:
 1. **Seleccionar Punto de Venta:**
 
    * En la pantalla de "Lista de Puntos de Venta", haga clic en el código del punto de venta que desea editar.
+
+     ![sale point](/images/uploads/editar_punto_venta.gif "Editar punto de venta")
 2. **Editar Información:**
 
    * Realice los cambios necesarios en el formulario de edición (código, código del Ministerio de Hacienda, tipo de punto de venta, sucursal, código externo, etc.).
