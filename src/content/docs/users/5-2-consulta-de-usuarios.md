@@ -35,6 +35,8 @@ sidebar:
 
    * Después de completar todos los campos, haga clic en el botón "Registrar". El nuevo usuario aparecerá en la lista de usuarios.
 
+     ![user](/images/uploads/registrar_usuarios.gif "Registrar usuario")
+
 ## 5.2.1 Pasos para crear un Usuario
 
 ![Usuario](/images/uploads/acciones-usuario-1.png "Crear Usuario paso 1")
