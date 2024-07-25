@@ -1,8 +1,8 @@
 ---
-title: 4.3.3 Manejo de Errores
+title: 4.4 Manejo de Errores
 date: 2024-07-25T11:12:00.000Z
 sidebar:
-  order: 1
+  order: 4
 ---
 **Transmisiones Rechazadas:**
 
