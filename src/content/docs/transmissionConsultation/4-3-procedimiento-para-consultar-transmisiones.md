@@ -31,6 +31,8 @@ Detalles de la Transmisión:
 
 La pantalla de detalles mostrará toda la información relacionada con la transmisión, incluyendo los datos del emisor y receptor, el detalle del documento, y el estado de la transmisión.
 
+![details](/images/uploads/detalles_transmision.gif "Detalles de la transmisión")
+
 ## 4.3.2 Acciones Disponibles
 
 **Reenviar Transmisión:**
