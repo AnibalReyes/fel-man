@@ -2,7 +2,7 @@
 title: 6.3 Tipos de Sucursales
 date: 2024-07-25T15:25:00.000Z
 sidebar:
-  order: 1
+  order: 3
 ---
 1. **Casa Matriz:**
 
