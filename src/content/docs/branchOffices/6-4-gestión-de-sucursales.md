@@ -10,12 +10,12 @@ sidebar:
 
    * Desde el menú principal, seleccione la opción "Compañía" y luego "Sucursales".
 
-     ![branch](/images/uploads/pantalla_sucursal.gif "Pantalla sucursal")
+    ![branch](/images/uploads/pantalla_sucursal.gif "Pantalla sucursal")
 2. **Acceder a la Pantalla de Creación:**
 
    * En la pantalla de "Lista de Sucursales", haga clic en el botón "Crear Sucursal".
 
-     ![branch](/images/uploads/crear_sucursal.gif "Crear sucursal")
+    ![branch](/images/uploads/crear_sucursal.gif "Crear sucursal")
 3. **Completar el Formulario de Creación:**
 
    * **Código:** Ingrese el código de la sucursal (ej. S001).
@@ -29,7 +29,7 @@ sidebar:
 
    * Después de completar todos los campos, haga clic en el botón "Registrar". La nueva sucursal aparecerá en la lista de sucursales.
 
-     ![branch](/images/uploads/registrar_sucursal.gif "Registrar sucursal")
+    ![branch](/images/uploads/registrar_sucursal.gif "Registrar sucursal")
 
 ## 6.4.2 Edición de Sucursales
 
@@ -37,7 +37,7 @@ sidebar:
 
    * En la pantalla de "Lista de Sucursales", haga clic en el código de la sucursal que desea editar.
 
-     ![branch](/images/uploads/editar_sucursal.gif "Editar sucursal")
+    ![branch](/images/uploads/editar_sucursal.gif "Editar sucursal")
 2. **Editar Información:**
 
    * Realice los cambios necesarios en el formulario de edición (código, nombre, código del Ministerio de Hacienda, tipo de sucursal, teléfono, municipio, dirección, etc.).
@@ -45,7 +45,7 @@ sidebar:
 
    * Después de realizar los cambios, haga clic en "Guardar" para actualizar la información de la sucursal.
 
-     ![branch](/images/uploads/editar_datos_sucursal.gif "Editar datos de sucursal")
+    ![branch](/images/uploads/editar_datos_sucursal.gif "Editar datos de sucursal")
 
 ## 6.4.3 Consulta de Sucursales
 
@@ -53,7 +53,7 @@ sidebar:
 
    * En la pantalla de "Lista de sucursales", haga click en acciones -> ver detalles
 
-     ![branch](/images/uploads/detalles_sucursal.gif "Detalles Sucursal")
+    ![branch](/images/uploads/detalles_sucursal.gif "Detalles Sucursal")
 
 ## 6.4.4 Eliminación de Sucursales
 
@@ -64,7 +64,7 @@ sidebar:
 
    * Haga clic en el botón "Eliminar". Confirme la acción para remover la sucursal del sistema.
 
-     ![branch](/images/uploads/eliminar_sucursal.gif "Eliminar Sucursal")
+    ![branch](/images/uploads/eliminar_sucursal.gif "Eliminar Sucursal")
 
 ## 6.4.5 Consideraciones Especiales
 
@@ -77,15 +77,10 @@ sidebar:
 3. **Teléfono de Contacto:**
 
    * Proporcione un número de teléfono válido para que la sucursal pueda ser contactada fácilmente.
+4. **Campos requeridos**
 
-## 6.3.1 Pasos para crear una Sucursal
-
-1. Se debe ingresar el código seleccionado en el campo de Código (requerido)
-2. Se debe ingresar el nombre de la sucursal seleccionado en el campo nombre (requerido).
-3. Se debe ingresar el Código MH de la sucursal, seleccionado en el campo Código MH (requerido).
-4. Se debe seleccionar el tipo de sucursal dependiendo de la ubicación física (requerido).
-5. Se debe seleccionar el municipio dependiendo de la ubicación física (requerido).
-6. Se debe ingresar y detallar la dirección de la sucursal.
-7. Y presionar el botón de “Registrar” para ejecutar la creación
-
-Luego de ingresar todos los campos requeridos, el sistema devolverá el siguiente mensaje:
+   * Se debe ingresar el código seleccionado en el campo de Código (requerido)
+   * Se debe ingresar el nombre de la sucursal seleccionado en el campo nombre (requerido).
+   * Se debe ingresar el Código MH de la sucursal, seleccionado en el campo Código MH (requerido).
+   * Se debe seleccionar el tipo de sucursal dependiendo de la ubicación física (requerido).
+   * Se debe seleccionar el municipio dependiendo de la ubicación física (requerido).
