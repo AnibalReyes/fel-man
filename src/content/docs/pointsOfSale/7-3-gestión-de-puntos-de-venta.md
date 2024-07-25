@@ -43,6 +43,8 @@ sidebar:
 
    * Después de realizar los cambios, haga clic en "Guardar" para actualizar la información del punto de venta.
 
+     ![sale point](/images/uploads/actualizar_punto_venta.gif "Actualizar punto de venta")
+
 ## 7.3.3 Eliminación de Puntos de Venta
 
 1. **Seleccionar Punto de Venta:**
