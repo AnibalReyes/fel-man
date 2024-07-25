@@ -36,3 +36,5 @@ sidebar:
 3. **Guardar Cambios:**
 
    * Haga clic en "Guardar" para actualizar el rol del usuario.
+
+     ![rol](/images/uploads/asignar_rol.gif "Asignar rol")
