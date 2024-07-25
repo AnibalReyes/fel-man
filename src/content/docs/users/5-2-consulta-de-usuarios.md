@@ -17,6 +17,8 @@ sidebar:
 1. **Acceder a la Pantalla de Creación:**
 
    * En la pantalla de "Lista de Usuarios", haga clic en el botón "Crear Usuario".
+
+     ![create user](/images/uploads/crear_usuarios.gif "Crear Usuarios")
 2. **Completar el Formulario de Creación:**
 
    * **Nombre:** Ingrese el nombre completo del usuario (ej. Juan Pérez).
