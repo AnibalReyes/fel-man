@@ -20,7 +20,10 @@ Haga clic en el botón "Buscar". La plataforma mostrará una lista de transmisio
 
 La lista de resultados incluirá detalles básicos de cada transmisión, como la fecha, tipo de documento, estado, y número de control.
 
+![filters](/images/uploads/uso_de_filtros_consultas.gif "Uso de filtros consultas")
+
 ## 4.3.1 Ver Detalles de una Transmisión
+
 **Seleccionar Transmisión:**
 
 Haga clic en una transmisión específica de la lista de resultados para ver sus detalles completos.
@@ -29,6 +32,7 @@ Detalles de la Transmisión:
 La pantalla de detalles mostrará toda la información relacionada con la transmisión, incluyendo los datos del emisor y receptor, el detalle del documento, y el estado de la transmisión.
 
 ## 4.3.2 Acciones Disponibles
+
 **Reenviar Transmisión:**
 
 Si una transmisión ha sido rechazada, puede corregir los errores y reenviarla.
@@ -57,6 +61,7 @@ Asegúrese de que todos los campos obligatorios estén completos.
 Datos Incorrectos: Verifique que la información ingresada sea correcta y cumpla con las normativas fiscales.
 
 ## 4.3.4 Seguridad de la Información
+
 **Protección de Datos:**
 
 Mantenga la información sensible protegida mediante el uso de contraseñas seguras y políticas de acceso restringido.
