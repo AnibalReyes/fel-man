@@ -4,13 +4,13 @@ date: 2024-07-25T12:45:00.000Z
 sidebar:
   order: 2
 ---
-
-
 ## 5.2.1 Acceso a la Sección de Usuarios
 
 1. **Navegación:**
 
    * Desde el menú principal, seleccione la opción "Equipo" y luego "Usuarios".
+
+![users](/images/uploads/pantalla_usuarios.gif "Acceder a pantalla de usuarios")
 
 ## 5.2.2 Creación de Usuarios
 
@@ -30,7 +30,6 @@ sidebar:
 3. **Registrar el Usuario:**
 
    * Después de completar todos los campos, haga clic en el botón "Registrar". El nuevo usuario aparecerá en la lista de usuarios.
-
 
 ## 5.2.1 Pasos para crear un Usuario
 
@@ -68,5 +67,3 @@ sidebar:
 2. **Eliminar Usuario:**
 
    * Haga clic en el botón "Eliminar". Confirme la acción para remover el usuario del sistema.
-
-
