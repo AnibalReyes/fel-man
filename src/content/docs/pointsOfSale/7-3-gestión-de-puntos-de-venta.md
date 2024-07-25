@@ -54,6 +54,8 @@ sidebar:
 
    * Haga clic en el botón "Eliminar". Confirme la acción para remover el punto de venta del sistema.
 
+     ![sale point](/images/uploads/eliminar_punto_venta.gif "Eliminar Punto de Venta")
+
 ## 7.3.4 Consideraciones Especiales
 
 1. **Código Ministerio de Hacienda:**
