@@ -44,12 +44,13 @@ Haga clic en "Reenviar", realice las correcciones necesarias y vuelva a enviar l
 
 Puede descargar una copia del documento transmitido.
 Haga clic en "Descargar" para guardar una copia en su dispositivo.
-Generar Reportes:
+
+![download](/images/uploads/descargar_facturapdf.gif "Descargar Factura")
+
+**Generar Reportes:**
 
 Puede generar reportes de transmisiones basados en los filtros aplicados.
 Haga clic en "Generar Reporte" para crear un reporte en formato PDF o Excel.
-
-
 
 ## 4.3.3 Seguridad de la Información
 
