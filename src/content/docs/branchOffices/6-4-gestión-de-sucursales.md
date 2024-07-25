@@ -36,6 +36,8 @@ sidebar:
 1. **Seleccionar Sucursal:**
 
    * En la pantalla de "Lista de Sucursales", haga clic en el código de la sucursal que desea editar.
+
+     ![branch](/images/uploads/editar_sucursal.gif "Editar sucursal")
 2. **Editar Información:**
 
    * Realice los cambios necesarios en el formulario de edición (código, nombre, código del Ministerio de Hacienda, tipo de sucursal, teléfono, municipio, dirección, etc.).
@@ -43,8 +45,12 @@ sidebar:
 
    * Después de realizar los cambios, haga clic en "Guardar" para actualizar la información de la sucursal.
 
-## 6.4.3 Consulta de Sucursales
+     ![branch]( "Editar datos de sucursal")
 
+## 6.4.3 Consulta de Sucursales
+1. **Seleccionar sucursal:**
+
+   * En la pantalla de "Lista de sucursales", haga click en acciones -> ver detalles
 ## 6.4.4 Eliminación de Sucursales
 
 1. **Seleccionar Sucursal:**
