@@ -10,12 +10,12 @@ sidebar:
 
    * Desde el menú principal, seleccione la opción "Compañía" y luego "Puntos de Venta".
 
-     ![sale point](/images/uploads/pantalla_punto_venta.gif "Punto de Venta")
+    ![sale point](/images/uploads/pantalla_punto_venta.gif "Punto de Venta")
 2. **Acceder a la Pantalla de Creación:**
 
    * En la pantalla de "Lista de Puntos de Venta", haga clic en el botón "Registrar Punto de Venta".
 
-     ![sale point](/images/uploads/registrar_punto_venta.gif "Crear Punto de Venta")
+    ![sale point](/images/uploads/registrar_punto_venta.gif "Crear Punto de Venta")
 3. **Completar el Formulario de Creación:**
 
    * **Código:** Ingrese el código del punto de venta (ej. POS-S001-0001).
@@ -27,7 +27,7 @@ sidebar:
 
    * Después de completar todos los campos, haga clic en el botón "Registrar". El nuevo punto de venta aparecerá en la lista de puntos de venta.
 
-     ![sale point](/images/uploads/registro_punto_venta.gif "Registrar Punto de Venta")
+    ![sale point](/images/uploads/registro_punto_venta.gif "Registrar Punto de Venta")
 
 ## 7.3.2 Edición de Puntos de Venta
 
@@ -35,7 +35,7 @@ sidebar:
 
    * En la pantalla de "Lista de Puntos de Venta", haga clic en el código del punto de venta que desea editar.
 
-     ![sale point](/images/uploads/editar_punto_venta.gif "Editar punto de venta")
+    ![sale point](/images/uploads/editar_punto_venta.gif "Editar punto de venta")
 2. **Editar Información:**
 
    * Realice los cambios necesarios en el formulario de edición (código, código del Ministerio de Hacienda, tipo de punto de venta, sucursal, código externo, etc.).
@@ -43,7 +43,7 @@ sidebar:
 
    * Después de realizar los cambios, haga clic en "Guardar" para actualizar la información del punto de venta.
 
-     ![sale point](/images/uploads/actualizar_punto_venta.gif "Actualizar punto de venta")
+    ![sale point](/images/uploads/actualizar_punto_venta.gif "Actualizar punto de venta")
 
 ## 7.3.3 Eliminación de Puntos de Venta
 
@@ -54,7 +54,7 @@ sidebar:
 
    * Haga clic en el botón "Eliminar". Confirme la acción para remover el punto de venta del sistema.
 
-     ![sale point](/images/uploads/eliminar_punto_venta.gif "Eliminar Punto de Venta")
+    ![sale point](/images/uploads/eliminar_punto_venta.gif "Eliminar Punto de Venta")
 
 ## 7.3.4 Consideraciones Especiales
 
