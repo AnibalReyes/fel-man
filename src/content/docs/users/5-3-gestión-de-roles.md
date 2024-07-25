@@ -10,7 +10,7 @@ sidebar:
 
    * Desde el menú principal, seleccione "Equipo" y luego "Roles".
 
-     ![rol](/images/uploads/pantalla_rol.gif "Pantalla rol")
+    ![rol](/images/uploads/pantalla_rol.gif "Pantalla rol")
 2. **Crear Rol:**
 
    * Haga clic en "Crear Rol".
@@ -23,7 +23,7 @@ sidebar:
 
    * Después de seleccionar todos los permisos necesarios, haga clic en "Registrar". El nuevo rol aparecerá en la lista de roles.
 
-     ![rol](/images/uploads/registrar_rol.gif "Registrar rol")
+![rol](/images/uploads/registrar_rol.gif "Registrar rol")
 
 ## 5.3.2 Asignación de Roles a Usuarios
 
@@ -37,4 +37,4 @@ sidebar:
 
    * Haga clic en "Guardar" para actualizar el rol del usuario.
 
-     ![rol](/images/uploads/asignar_rol.gif "Asignar rol")
+    ![rol](/images/uploads/asignar_rol.gif "Asignar rol")
