@@ -5,12 +5,17 @@ sidebar:
   order: 4
 ---
 ## 6.4.1 Creación de Sucursales
+
 1. **Navegación:**
 
    * Desde el menú principal, seleccione la opción "Compañía" y luego "Sucursales".
+
+     ![branch](/images/uploads/pantalla_sucursal.gif "Pantalla sucursal")
 2. **Acceder a la Pantalla de Creación:**
 
    * En la pantalla de "Lista de Sucursales", haga clic en el botón "Crear Sucursal".
+
+     ![branch](/images/uploads/crear_sucursal.gif "Crear sucursal")
 3. **Completar el Formulario de Creación:**
 
    * **Código:** Ingrese el código de la sucursal (ej. S001).
@@ -59,7 +64,7 @@ sidebar:
 
    * Proporcione un número de teléfono válido para que la sucursal pueda ser contactada fácilmente.
 
-### 6.3.1 Pasos para crear una Sucursal
+## 6.3.1 Pasos para crear una Sucursal
 
 1. Se debe ingresar el código seleccionado en el campo de Código (requerido)
 2. Se debe ingresar el nombre de la sucursal seleccionado en el campo nombre (requerido).
@@ -69,7 +74,4 @@ sidebar:
 6. Se debe ingresar y detallar la dirección de la sucursal.
 7. Y presionar el botón de “Registrar” para ejecutar la creación
 
-Luego de ingresar todos los campos requeridos, el sistema devolverá el siguiente mensaje: 
-
-
-
+Luego de ingresar todos los campos requeridos, el sistema devolverá el siguiente mensaje:
