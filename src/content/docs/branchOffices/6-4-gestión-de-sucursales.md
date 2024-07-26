@@ -1,10 +1,10 @@
 ---
-title: 6.4 Gestión de Sucursales
+title: 7.4 Gestión de Sucursales
 date: 2024-07-25T15:20:00.000Z
 sidebar:
   order: 4
 ---
-## 6.4.1 Creación de Sucursales
+## 7.4.1 Creación de Sucursales
 
 1. **Navegación:**
 
@@ -31,7 +31,7 @@ sidebar:
 
     ![branch](/images/uploads/registrar_sucursal.gif "Registrar sucursal")
 
-## 6.4.2 Edición de Sucursales
+## 7.4.2 Edición de Sucursales
 
 1. **Seleccionar Sucursal:**
 
@@ -47,7 +47,7 @@ sidebar:
 
     ![branch](/images/uploads/editar_datos_sucursal.gif "Editar datos de sucursal")
 
-## 6.4.3 Consulta de Sucursales
+## 7.4.3 Consulta de Sucursales
 
 1. **Seleccionar sucursal:**
 
@@ -55,7 +55,7 @@ sidebar:
 
     ![branch](/images/uploads/detalles_sucursal.gif "Detalles Sucursal")
 
-## 6.4.4 Eliminación de Sucursales
+## 7.4.4 Eliminación de Sucursales
 
 1. **Seleccionar Sucursal:**
 
@@ -66,7 +66,7 @@ sidebar:
 
     ![branch](/images/uploads/eliminar_sucursal.gif "Eliminar Sucursal")
 
-## 6.4.5 Consideraciones Especiales
+## 7.4.5 Consideraciones Especiales
 
 1. **Código Ministerio de Hacienda:**
 
