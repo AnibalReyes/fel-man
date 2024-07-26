@@ -2,7 +2,7 @@
 title: 3.2 Factura de Consumidor Final (FCF)
 date: 2024-07-22T16:11:00.000Z
 sidebar:
-    order: 2
+  order: 2
 ---
 ## 3.2.1 Resumen
 
@@ -125,6 +125,6 @@ La sección de "Otros Documentos" en una factura se utiliza para registrar y ref
 | Doc. de Identificación del Médico | Número de documento de identificación del médico, si aplica.            |
 | Tipo de Servicio                  | Tipo de servicio proporcionado relacionado con el documento, si aplica. |
 
-### Resumen de documento
+## Resumen de documento
 
 ![Resumen de documento](/images/uploads/fcf9.png "Pantalla Resumen de documento")
