@@ -1,10 +1,10 @@
 ---
-title: 5.2 Consulta de Usuarios
+title: 6.2 Consulta de Usuarios
 date: 2024-07-25T12:45:00.000Z
 sidebar:
   order: 2
 ---
-## 5.2.1 Acceso a la Sección de Usuarios
+## 6.2.1 Acceso a la Sección de Usuarios
 
 1. **Navegación:**
 
@@ -12,7 +12,7 @@ sidebar:
 
 ![users](/images/uploads/pantalla_usuarios.gif "Acceder a pantalla de usuarios")
 
-## 5.2.2 Creación de Usuarios
+## 6.2.2 Creación de Usuarios
 
 1. **Acceder a la Pantalla de Creación:**
 
@@ -37,7 +37,7 @@ sidebar:
 
 ![Usuario](/images/uploads/registrar_usuarios.gif "Crear Usuario paso 1")
 
-## 5.2.3 Edición de Usuarios
+## 6.2.3 Edición de Usuarios
 
 1. **Seleccionar Usuario:**
 
