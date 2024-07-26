@@ -1,5 +1,5 @@
 ---
-title: 7.4 Seguridad y Buenas Prácticas
+title: 8.4 Seguridad y Buenas Prácticas
 date: 2024-07-25T16:44:00.000Z
 sidebar:
   order: 4
