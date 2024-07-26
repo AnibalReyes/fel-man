@@ -1,5 +1,5 @@
 ---
-title: 6.2 Conceptos Básicos
+title: 7.2 Conceptos Básicos
 date: 2024-07-22T15:21:00.000Z
 sidebar:
   order: 2
