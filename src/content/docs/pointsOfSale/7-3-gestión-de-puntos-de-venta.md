@@ -4,7 +4,7 @@ date: 2024-07-25T16:42:00.000Z
 sidebar:
   order: 3
 ---
-## 7.3.1 Creación de Puntos de Venta
+## 8.3.1 Creación de Puntos de Venta
 
 1. **Navegación:**
 
@@ -29,7 +29,7 @@ sidebar:
 
     ![sale point](/images/uploads/registro_punto_venta.gif "Registrar Punto de Venta")
 
-## 7.3.2 Edición de Puntos de Venta
+## 8.3.2 Edición de Puntos de Venta
 
 1. **Seleccionar Punto de Venta:**
 
@@ -45,7 +45,7 @@ sidebar:
 
     ![sale point](/images/uploads/actualizar_punto_venta.gif "Actualizar punto de venta")
 
-## 7.3.3 Eliminación de Puntos de Venta
+## 8.3.3 Eliminación de Puntos de Venta
 
 1. **Seleccionar Punto de Venta:**
 
@@ -56,7 +56,7 @@ sidebar:
 
     ![sale point](/images/uploads/eliminar_punto_venta.gif "Eliminar Punto de Venta")
 
-## 7.3.4 Consideraciones Especiales
+## 8.3.4 Consideraciones Especiales
 
 1. **Código Ministerio de Hacienda:**
 
