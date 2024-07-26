@@ -1,10 +1,10 @@
 ---
-title: 8.2 Gestión de Clientes
+title: 5.2 Gestión de Clientes
 date: 2024-07-25T17:23:00.000Z
 sidebar:
   order: 2
 ---
-## 8.2.1 Creación de Clientes
+## 5.2.1 Creación de Clientes
 1. **Navegación:**
     - Desde el menú principal, seleccione la opción "Clientes".
 2. **Acceder a la Pantalla de Creación:**
@@ -34,7 +34,7 @@ sidebar:
 4. **Registrar el Cliente:**
     - Después de completar todos los campos, haga clic en el botón "Registrar". El nuevo cliente aparecerá en la lista de clientes.
 
-## 8.2.2 Edición de Clientes
+## 5.2.2 Edición de Clientes
 
 1. **Seleccionar Cliente:**
     - En la pantalla de "Lista de Clientes", haga clic en el nombre del cliente que desea editar.
@@ -43,14 +43,14 @@ sidebar:
 3. **Guardar Cambios:**
     - Después de realizar los cambios, haga clic en "Guardar" para actualizar la información del cliente.
 
-## 8.2.3 Eliminación de Clientes
+## 5.2.3 Eliminación de Clientes
 
 1. **Seleccionar Cliente:**
     - En la pantalla de "Lista de Clientes", marque la casilla junto al nombre del cliente que desea eliminar.
 2. **Eliminar Cliente:**
     - Haga clic en el botón "Eliminar". Confirme la acción para remover el cliente del sistema.
 
-## 8.2.4 Consideraciones Especiales
+## 5.2.4 Consideraciones Especiales
 
 1. **Datos de Contacto:**
     - Asegúrese de ingresar correctamente los datos de contacto del cliente para facilitar la comunicación y emisión de documentos.
