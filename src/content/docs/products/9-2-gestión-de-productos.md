@@ -2,7 +2,7 @@
 title: 9.2 Gestión de Productos
 date: 2024-07-26T08:22:00.000Z
 sidebar:
-  order: 1
+  order: 2
 ---
 ## 9.3 Creación de Productos
 **Navegación:**
