@@ -1,5 +1,5 @@
 ---
-title: 5.5 Preguntas Frecuentes
+title: 6.5 Preguntas Frecuentes
 date: 2024-07-25T12:50:00.000Z
 sidebar:
   order: 5
