@@ -1,10 +1,10 @@
 ---
-title: 5.3 Gestión de Roles
+title: 6.3 Gestión de Roles
 date: 2024-07-25T12:47:00.000Z
 sidebar:
   order: 3
 ---
-## 5.3.1 Crear Rol
+## 6.3.1 Crear Rol
 
 1. **Acceder a la Sección de Roles:**
 
@@ -25,7 +25,7 @@ sidebar:
 
 ![rol](/images/uploads/registrar_rol.gif "Registrar rol")
 
-## 5.3.2 Asignación de Roles a Usuarios
+## 6.3.2 Asignación de Roles a Usuarios
 
 1. **Editar Usuario:**
 
