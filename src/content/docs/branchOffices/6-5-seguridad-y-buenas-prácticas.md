@@ -1,5 +1,5 @@
 ---
-title: 6.5 Seguridad y Buenas Prácticas
+title: 7.5 Seguridad y Buenas Prácticas
 date: 2024-07-25T15:28:00.000Z
 sidebar:
   order: 5
