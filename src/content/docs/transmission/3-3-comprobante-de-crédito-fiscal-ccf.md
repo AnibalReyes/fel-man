@@ -2,7 +2,7 @@
 title: 3.3 Comprobante de Crédito Fiscal (CCF)
 date: 2024-07-22T16:29:00.000Z
 sidebar:
-    order: 3
+  order: 3
 ---
 ## 3.3.1 Resumen
 
@@ -94,7 +94,7 @@ La sección de "Apéndices" está destinada a incluir información adicional que
 | Doc. de Identificación del Médico | Número de documento de identificación del médico, si aplica. |
 | Tipo de Servicio | Tipo de servicio proporcionado relacionado con el documento, si aplica. |
 
-### 3.3.4 Descripción de los Campos
+## 3.3.4 Descripción de los Campos
 
 1. **Nombre**: Este campo identifica el nombre completo de la persona o la razón social de la empresa que recibe el comprobante. Es crucial para la identificación precisa del receptor.
 2. **Nombre Comercial**: Nombre bajo el cual opera el receptor, que puede ser diferente de la razón social. Este campo es útil para identificar a la empresa en el mercado.
@@ -107,13 +107,13 @@ La sección de "Apéndices" está destinada a incluir información adicional que
 9. **Municipio**: El municipio dentro del departamento donde se encuentra el receptor. Proporciona una ubicación más específica del receptor.
 10. **Dirección**: Dirección física completa del receptor. Incluye detalles como calle, número, colonia, y ciudad, asegurando una identificación y localización precisa.
 
-### 3.3.5 Importancia del CCF
+## 3.3.5 Importancia del CCF
 
 - **Control Fiscal:** Permite a las autoridades fiscales mantener un control riguroso sobre las transacciones comerciales y el cumplimiento de las obligaciones tributarias.
 - **Crédito Fiscal:** Facilita a los contribuyentes el derecho de deducir el IVA pagado en sus compras, reduciendo así su carga fiscal.
 - **Transparencia Comercial:** Asegura una mayor transparencia en las transacciones comerciales entre contribuyentes, fomentando una economía más formal y organizada.
 
-### 3.3.6 Importancia del Receptor de Comprobante de Crédito Fiscal
+## 3.3.6 Importancia del Receptor de Comprobante de Crédito Fiscal
 
 La correcta identificación y documentación del receptor del comprobante de crédito fiscal es crucial por varias razones:
 
@@ -122,7 +122,7 @@ La correcta identificación y documentación del receptor del comprobante de cr�
 - **Rastreo y Verificación**: Permite el rastreo y la verificación de las transacciones, facilitando auditorías y revisiones fiscales.
 - **Acreditación del IVA**: Permite al receptor acreditar el IVA pagado en sus compras contra el IVA cobrado en sus ventas, optimizando su carga tributaria.
 
-### 3.3.7 Componentes del CCF
+## 3.3.7 Componentes del CCF
 
 1. **Datos del Emisor y Receptor:**
     - **Emisor:** Información del vendedor o proveedor, incluyendo el Nombre, Dirección y Número de Identificación Tributaria (NIT).
@@ -138,14 +138,14 @@ La correcta identificación y documentación del receptor del comprobante de cr�
     - Fecha de emisión del comprobante.
     - Número correlativo del comprobante, asegurando la unicidad y rastreabilidad.
 
-### 3.3.8 Proceso de Emisión del CCF
+## 3.3.8 Proceso de Emisión del CCF
 
 1. **Registro:** Tanto el emisor como el receptor deben estar registrados como contribuyentes del IVA.
 2. **Generación:** El comprobante se genera en el momento de la venta o prestación del servicio, utilizando un formato autorizado por la administración tributaria.
 3. **Transmisión:** El comprobante se puede transmitir electrónicamente a las autoridades fiscales y se entrega una copia al cliente.
 4. **Conservación:** Tanto el emisor como el receptor deben conservar copias de los CCF por un período determinado para efectos de auditoría.
 
-### 3.3.9 Uso y Beneficios del CCF
+## 3.3.9 Uso y Beneficios del CCF
 
 - **Acreditación del IVA:** Permite a los compradores deducir el IVA pagado en sus compras, reduciendo así el monto del IVA a pagar.
 - **Formalización de la Economía:** Fomenta la formalización de las transacciones comerciales, contribuyendo a una economía más regulada y menos informal.
