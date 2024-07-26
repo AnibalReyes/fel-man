@@ -10,8 +10,14 @@ sidebar:
 
   ![users](/images/uploads/lista_usuarios.png "Lista de Usuarios")
 * **Crear Usuario:** Permite acceder a la pantalla de creación de usuarios.
+
+  ![users](/images/uploads/crear_usuarios.png "Crear Usuario")
 * **Actualizar Usuario:** Permite editar la información de los usuarios.
+
+  ![users](/images/uploads/editar_usuarios.png "Editar Usuarios")
 * **Eliminar Usuario:** Permite eliminar usuarios existentes.
+
+  ![users](/images/uploads/eliminar_usuarios.png "Eliminar Usuario")
 * **Actualizar Correo:** Permite cambiar la dirección de correo electrónico de un usuario.
 * **Listar Roles:** Permite ver la lista de roles.
 * **Crear Rol:** Permite acceder a la pantalla de creación de roles.
