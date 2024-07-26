@@ -1,5 +1,5 @@
 ---
-title: 6.3 Tipos de Sucursales
+title: 7.3 Tipos de Sucursales
 date: 2024-07-25T15:25:00.000Z
 sidebar:
   order: 3
