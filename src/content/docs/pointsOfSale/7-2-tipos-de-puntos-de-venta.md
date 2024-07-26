@@ -1,5 +1,5 @@
 ---
-title: 7.2 Tipos de Puntos de Venta
+title: 8.2 Tipos de Puntos de Venta
 date: 2024-07-25T16:41:00.000Z
 sidebar:
   order: 2
