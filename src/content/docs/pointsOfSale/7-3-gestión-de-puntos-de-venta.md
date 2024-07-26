@@ -1,5 +1,5 @@
 ---
-title: 7.3 Gestión de Puntos de Venta
+title: 8.3 Gestión de Puntos de Venta
 date: 2024-07-25T16:42:00.000Z
 sidebar:
   order: 3
