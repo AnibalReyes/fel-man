@@ -78,6 +78,8 @@ sidebar:
 ## 10.3.6 Productos
 
 * **Listar Productos:** Permite ver la lista de productos.
+
+  ![products](/images/uploads/listar_productos.png "Listar productos")
 * **Crear Producto:** Permite acceder a la pantalla de creación de productos.
 * **Editar Producto:** Permite editar la información de los productos.
 * **Eliminar Producto:** Permite eliminar productos existentes.
