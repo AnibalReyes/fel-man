@@ -11,15 +11,15 @@ Un Comprobante de Donación (CD) es un documento utilizado para registrar y cert
 
 ## 3.12.2 Conceptos básicos
 
-**Donante (Receptor)**
+### **Donante (Receptor)**
 
-**Cuerpo de Documento**
+### **Cuerpo de Documento**
 
-**Otros Documentos**
+### **Otros Documentos**
 
-**Apéndices**
+### **Apéndices**
 
-## 3.12.5 Importancia del CD
+## 3.12.3 Importancia del CD
 
 - **Registro de Donaciones:** El Comprobante de Donación (CD) documenta y certifica la transferencia de bienes, servicios o dinero de un donante a una organización benéfica o entidad sin fines de lucro, detallando el valor y la naturaleza de la donación.
 
@@ -31,8 +31,7 @@ Un Comprobante de Donación (CD) es un documento utilizado para registrar y cert
 
 - **Fomento de la Filantropía:** Contribuye a fomentar la cultura de donación y apoyo a causas benéficas, al documentar oficialmente las contribuciones realizadas por individuos y empresas.
 
-
-
-
-
-
+## 3.12.4 Descripción de los Campos
+## 3.12.5 Componentes del CD
+## 3.12.6 Proceso de Emisión de CD
+## 3.12.7 Uso y Beneficios del CD
