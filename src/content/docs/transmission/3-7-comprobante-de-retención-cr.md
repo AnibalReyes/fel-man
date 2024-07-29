@@ -10,7 +10,7 @@ Un Comprobante de Retención es un documento tributario que se emite para regist
 
 ## 3.7.2 Conceptos básicos
 
-**Cliente (Receptor)**
+### **Cliente (Receptor)**
 
 | Campo | Descripción |
 | --- | --- |
@@ -26,7 +26,7 @@ Un Comprobante de Retención es un documento tributario que se emite para regist
 | Municipio | El municipio dentro del departamento donde se encuentra el receptor. |
 | Dirección | Dirección física completa del receptor (calle, número, colonia, ciudad, etc.). |
 
-**Extensión**
+### **Extensión**
 
 | Campo | Definición |
 | --- | --- |
@@ -37,7 +37,7 @@ Un Comprobante de Retención es un documento tributario que se emite para regist
 | Observaciones | Cualquier comentario o detalle adicional relevante sobre la entrega o recepción del producto o servicio. |
 | Placa Vehículo | Número de placa del vehículo utilizado para la entrega del producto o servicio, si aplica. |
 
-**Apéndices**
+### **Apéndices**
 
 La sección de "Apéndices" está destinada a incluir información adicional que complementa y detalla aún más la transacción principal documentada en la factura. Los apéndices suelen contener datos que no encajan en las secciones estándar del documento pero que son esenciales para una comprensión completa y precisa de la transacción.
 
@@ -47,7 +47,7 @@ La sección de "Apéndices" está destinada a incluir información adicional que
 | Etiqueta | Identificación o descripción del campo, proporcionando contexto sobre la información contenida. |
 | Valor | El valor o la información específica correspondiente a la etiqueta y campo mencionados. |
 
-## 3.7.5 Importancia del CR
+## 3.7.3 Importancia del CR
 
  * **Cumplimiento Tributario:** El Comprobante de Retención (CR) asegura que las retenciones de impuestos realizadas sobre pagos a proveedores o empleados se registren correctamente, cumpliendo con las obligaciones fiscales correspondientes.
 
@@ -58,3 +58,8 @@ La sección de "Apéndices" está destinada a incluir información adicional que
 * **Transparencia Fiscal:** Promueve la transparencia en las transacciones financieras al documentar de manera oficial las retenciones realizadas, contribuyendo a un entorno fiscal más ordenado y conforme con las normativas vigentes.
 
 * **Facilita la Auditoría:** Ayuda en el proceso de auditoría fiscal al proporcionar un registro claro y detallado de las retenciones realizadas, facilitando la verificación y el control por parte de las autoridades fiscales.
+
+## 3.7.4 Descripción de los Campos
+## 3.7.5 Componentes del CR
+## 3.7.6 Proceso de Emisión de CR
+## 3.7.7 Uso y Beneficios del CR
