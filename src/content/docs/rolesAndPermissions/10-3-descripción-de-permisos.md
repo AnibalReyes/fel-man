@@ -30,6 +30,8 @@ sidebar:
   ![roles](/images/uploads/actualizar_rol.png "Actualizar rol")
 * **Eliminar Rol:** Permite eliminar roles existentes.
 
+  ![roles](/images/uploads/eliminar_rol.png "Eliminar roles")
+
 ## 10.3.2 Permisos
 
 * **Listar Permisos:** Permite ver la lista de todos los permisos.
