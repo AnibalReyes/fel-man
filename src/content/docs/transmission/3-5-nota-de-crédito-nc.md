@@ -89,7 +89,6 @@ Una Nota de Crédito Electrónica (NCE) es un documento fiscal digital utilizado
 * **Transparencia y Cumplimiento:** Promueve la transparencia en las transacciones comerciales y asegura el cumplimiento de las normativas fiscales, proporcionando un documento oficial que respalda los ajustes realizados en las facturas.
 
 ## 3.5.4 Descripción de los Campos
-Aquí tienes la descripción de cada campo en formato Markdown:
 
 ### **Cliente (Receptor)**
 
