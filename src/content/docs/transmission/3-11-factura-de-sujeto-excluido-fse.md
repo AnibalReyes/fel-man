@@ -2,9 +2,11 @@
 title: 3.11 Factura de Sujeto Excluido (FSE)
 date: 2024-07-22T16:47:00.000Z
 sidebar:
-    order: 11
+  order: 11
 ---
 ## 3.11.1 Resumen
+
+Una Factura de Sujeto Excluido (FSE) es un documento tributario utilizado para registrar transacciones realizadas por contribuyentes que están excluidos del régimen general de impuestos. Este tipo de factura se emite cuando un sujeto no está obligado a aplicar el Impuesto al Valor Agregado (IVA) u otros impuestos similares, debido a su condición especial o exención. La Factura de Sujeto Excluido detalla la venta de bienes o servicios, incluyendo información sobre los montos y las condiciones de la transacción. Es crucial para cumplir con las normativas fiscales específicas para contribuyentes excluidos, facilitando el control y la transparencia en las operaciones comerciales.
 
 ## 3.11.2 Conceptos básicos
 
