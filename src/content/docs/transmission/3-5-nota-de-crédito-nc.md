@@ -89,6 +89,130 @@ Una Nota de Crédito Electrónica (NCE) es un documento fiscal digital utilizado
 * **Transparencia y Cumplimiento:** Promueve la transparencia en las transacciones comerciales y asegura el cumplimiento de las normativas fiscales, proporcionando un documento oficial que respalda los ajustes realizados en las facturas.
 
 ## 3.5.4 Descripción de los Campos
+Aquí tienes la descripción de cada campo en formato Markdown:
+
+### **Cliente (Receptor)**
+
+* **NIT**  
+  Número de Identificación Tributaria del receptor. Debe ser un número único que identifica al receptor ante las autoridades fiscales.
+
+* **NRC**  
+  Número de Registro de Contribuyente del receptor. Este número sirve para registrar al receptor en el sistema tributario.
+
+* **Nombre**  
+  Nombre, denominación o razón social del contribuyente (Receptor). Puede ser el nombre completo de una persona o la razón social de una empresa.
+
+* **Codigo de Actividad**  
+  Código de Actividad Económica del receptor. Un código que clasifica la actividad económica principal del receptor según el sistema tributario.
+
+* **Descripción Actividad**  
+  Actividad Económica del receptor. Descripción detallada de la actividad económica o comercial que realiza el receptor.
+
+* **Nombre Comercial**  
+  Nombre Comercial del receptor. Nombre bajo el cual el receptor realiza su actividad comercial, si es diferente del nombre legal.
+
+* **Dirección**  
+  Dirección completa del receptor. Debe incluir todos los detalles necesarios como calle, número, colonia, ciudad y código postal.
+
+* **Teléfono**  
+  Número de teléfono del receptor. Debe incluir el código de país y área si aplica.
+
+* **Correo**  
+  Correo electrónico del receptor. Debe ser una dirección válida para enviar comunicaciones electrónicas.
+
+### **Documentos Relacionados**
+
+* **Tipo de Documento**  
+  Tipo de Documento Tributario Relacionado. Indica el tipo de documento que está relacionado con la transacción, como una factura o una nota de crédito.
+
+* **Tipo de Generación**  
+  Tipo de Generación del Documento Tributario relacionado. Especifica si el documento relacionado es una factura original, nota de crédito, entre otros.
+
+* **Numero de Documento**  
+  Número de documento relacionado. El número único del documento que está siendo referenciado.
+
+* **Fecha de Emisión**  
+  Fecha de Generación del Documento Relacionado. La fecha en la que se emitió el documento relacionado.
+
+### **Cuerpo de Documento**
+
+* **Numero de Item**  
+  N° de ítem. Número secuencial que identifica cada línea o ítem en el documento.
+
+* **Tipo Item**  
+  Tipo de ítem. Indica si el ítem es un producto, servicio, o cualquier otro tipo de bien o servicio.
+
+* **Numero de Documento**  
+  Número de documento relacionado. Referencia al número del documento que está asociado con el ítem.
+
+* **Cantidad**  
+  Cantidad. Número de unidades del ítem descrito.
+
+* **Codigo**  
+  Código. Código único del ítem, generalmente un SKU o código de barras.
+
+* **Codigo de Tributo**  
+  Tributo sujeto a cálculo de IVA. Código del tributo que se aplica al ítem para calcular el IVA.
+
+* **Unidad de Medida**  
+  Unidad de Medida. La unidad en la que se mide el ítem, como litros, kilogramos, unidades, etc.
+
+* **Descripción**  
+  Descripción. Descripción detallada del ítem.
+
+* **Precio Unitario**  
+  Precio Unitario. Precio por unidad del ítem antes de aplicar cualquier descuento o impuesto.
+
+* **Monto de Descuento**  
+  Descuento, Bonificación, Rebajas por ítem. Monto descontado del precio unitario del ítem.
+
+* **Venta No Sujeta**  
+  Ventas no Sujetas. Ventas que no están sujetas a impuestos.
+
+* **Venta Exenta**  
+  Ventas Exentas. Ventas que están exentas de impuestos.
+
+* **Venta Gravada**  
+  Ventas Gravadas. Ventas que están sujetas a impuestos.
+
+* **Tributos**  
+  Código del Tributo. Código del impuesto que se aplica al ítem.
+
+### **Venta Tercero**
+
+* **NIT**  
+  Número de Identificación Tributaria del tercero involucrado en la venta. Es el identificador fiscal del tercero en la transacción.
+
+* **Nombre**  
+  Nombre completo o razón social del tercero que participa en la venta. Puede ser el nombre de una persona o la razón social de una empresa que actúa como intermediario.
+
+### **Extensión**
+
+* **Nombre Entrega**  
+  Nombre del responsable que genera el DTE (Documento Tributario Electrónico). La persona que emite o genera el documento.
+
+* **Documento Entrega**  
+  Documento de identificación de quien genera el DTE. Puede ser un número de identificación, como un DUI o NIT.
+
+* **Nombre Recibe**  
+  Nombre del responsable de la operación por parte del receptor. La persona que recibe el producto o servicio.
+
+* **Documento Recibe**  
+  Documento de identificación del responsable de la operación por parte del receptor. Número de identificación de la persona que recibe.
+
+* **Observaciones**  
+  Observaciones. Cualquier comentario o detalle adicional relevante sobre la transacción.
+
+### **Apéndices**
+
+* **Campo**  
+  Nombre del campo. Nombre del campo adicional o específico incluido en el apéndice.
+
+* **Etiqueta**  
+  Descripción. Identificación o descripción del campo.
+
+* **Valor**  
+  Valor/Dato. Información específica correspondiente a la etiqueta y campo mencionados.
 ## 3.5.5 Componentes del NC
 
 ## 3.5.6 Proceso de Emisión de NC
