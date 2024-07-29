@@ -67,10 +67,34 @@ Una Factura de Exportación es un documento comercial utilizado para registrar y
 
 ### **Venta Tercero**
 
+| Campo  | Descripción                                   |
+|--------|-----------------------------------------------|
+| nit    | NIT por cuenta de Terceros                    |
+| nombre | Nombre, denominación o razón social del Tercero |
+
+
 
 ### **Apéndices**
 
+| Campo   | Descripción  |
+|---------|--------------|
+| campo   | Nombre del campo |
+| etiqueta | Descripción  |
+| valor   | Valor/Dato   |
+
+
 ### **Otros Documentos**
+
+| Campo               | Descripción                                     |
+|---------------------|-------------------------------------------------|
+| Codigo de Documento Asociado      | Documento asociado                              |
+| Descripción del Documento       | Identificación del documento asociado           |
+| Detalle del Documento    | Descripción de documento asociado               |
+| Placa de Transporte          | Número de identificación del transporte         |
+| Modo de Transporte          | Modo de transporte                              |
+| Numero de Conductor        | N documento de identificación del Conductor     |
+| Nombre del Conductor     | Nombre y apellidos del Conductor                |
+
 
 ## 3.10.3 Importancia del FEX
 
