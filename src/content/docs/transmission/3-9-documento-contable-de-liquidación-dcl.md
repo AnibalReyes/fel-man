@@ -14,60 +14,60 @@ Un Documento Contable de Liquidación (DCL) es un registro financiero utilizado 
 
 | Campo                  | Descripción                                               |
 |------------------------|-----------------------------------------------------------|
-| nit                    | NIT (Receptor)                                           |
-| nrc                    | NRC (Receptor)                                           |
-| nombre                 | Nombre, denominación o razón social del contribuyente (Receptor) |
-| codActividad           | Código de Actividad Económica (Receptor)                 |
-| descActividad          | Actividad Económica (Receptor)                           |
-| nombreComercial        | Nombre Comercial (Receptor)                              |
-| tipoEstablecimiento    | Tipo de establecimiento (Receptor)                       |
-| direccion              | Dirección (Receptor)                                    |
-| telefono               | Teléfono (Receptor)                                     |
-| correo                 | Correo electrónico (Receptor)                            |
-| codigoMH               | Código del establecimiento asignado por el MH            |
-| puntoVentaMH           | Código del Punto de Venta asignado por el MH             |
+| NIT                    | NIT (Receptor)                                           |
+| NRC                    | NRC (Receptor)                                           |
+| Nombre                 | Nombre, denominación o razón social del contribuyente (Receptor) |
+| Codigo Actividad           | Código de Actividad Económica (Receptor)                 |
+| Descripción Actividad          | Actividad Económica (Receptor)                           |
+| Nombre Comercial        | Nombre Comercial (Receptor)                              |
+| Tipo de Establecimiento    | Tipo de establecimiento (Receptor)                       |
+| Dirección              | Dirección (Receptor)                                    |
+| Telefono               | Teléfono (Receptor)                                     |
+| Correo                 | Correo electrónico (Receptor)                            |
+| CodigoMH               | Código del establecimiento asignado por el MH            |
+| Punto de VentaMH           | Código del Punto de Venta asignado por el MH             |
 
 
 ### **Cuerpo de Documento**
 | Campo                         | Descripción                                             |
 |-------------------------------|---------------------------------------------------------|
-| periodo liquidacion fecha inicio | Fecha inicio del período de Liquidación                |
-| periodo liquidacion fecha fin    | Fecha fin del período de Liquidación                   |
-| cod liquidacion                 | Código de Liquidación                                  |
-| cantidad doc                    | Cantidad de Documentos                                 |
-| valor operaciones               | Valor de las Operaciones a Liquidar                    |
-| monto sin percepcion            | Valores no sujetos a percepción                        |
-| descrip sin percepcion          | Descripción del valor no sujeto a percepción           |
-| sub total                      | Sub-Total                                              |
-| iva                            | IVA de las Operaciones a liquidar                      |
-| monto sujeto percepcion         | Monto sujeto a percepción sin IVA                      |
-| iva percibido                   | IVA Percibido (2%)                                     |
-| comision                        | Comisión                                               |
-| porcent comision                | Porcentaje de Comisión                                 |
-| iva comision                    | IVA de la Comisión                                     |
-| liquido a pagar                 | Valor líquido a pagar al afiliado                      |
-| total letras                    | Valor en Letras                                        |
-| observaciones                  | Observaciones por ítems                               |
+| Periodo de Liquidacion Fecha de Inicio | Fecha inicio del período de Liquidación                |
+| Periodo de Liquidacion Fecha de Fin    | Fecha fin del período de Liquidación                   |
+| Codigo de Liquidacion                 | Código de Liquidación                                  |
+| Cantidad de Documentos                    | Cantidad de Documentos                                 |
+| Valor de la Operaciones               | Valor de las Operaciones a Liquidar                    |
+| Monto sin Percepción            | Valores no sujetos a percepción                        |
+| Descripción sin Percepción          | Descripción del valor no sujeto a percepción           |
+| Subtotal                      | Sub-Total                                              |
+| IVA                            | IVA de las Operaciones a liquidar                      |
+| Monto Sujeto Percepcion         | Monto sujeto a percepción sin IVA                      |
+| IVA Percibido                   | IVA Percibido (2%)                                     |
+| Comisión                        | Comisión                                               |
+| Porcentaje de Comisión                | Porcentaje de Comisión                                 |
+| IVA Comisión                    | IVA de la Comisión                                     |
+| Liquido a Pagar                 | Valor líquido a pagar al afiliado                      |
+| Total Letras                    | Valor en Letras                                        |
+| Observaciones                  | Observaciones por ítems                               |
 
 ### **Extensión**
 
 | Campo                        | Descripción                                         |
 |------------------------------|-----------------------------------------------------|
-| nomb entrega                 | Nombre del responsable que Genera el DTE           |
-| docu entrega                 | Documento de identificación de quien genera el DTE |
-| cod empleado                 | Código de empleado responsable de la liquidación   |
+| Nombre Entrega                 | Nombre del responsable que Genera el DTE           |
+| Documento Entrega                 | Documento de identificación de quien genera el DTE |
+| Codigo Empleado                 | Código de empleado responsable de la liquidación   |
 
 
 ### **Apéndices**
 
 | Campo   | Descripción         |
 |---------|---------------------|
-| campo   | Nombre del campo    |
-| etiqueta| Descripción         |
-| valor   | Valor/Dato          |
+| Campo   | Nombre del campo    |
+| Etiqueta| Descripción         |
+| Valor   | Valor/Dato          |
 
 
-## 3.9.5 Importancia del DCL
+## 3.9.3 Importancia del DCL
 
 - **Registro de Liquidaciones:** El Documento Contable de Liquidación (DCL) se utiliza para registrar detalladamente la liquidación de cuentas, ajustes y saldos pendientes entre las partes involucradas en una transacción o contrato.
 
@@ -78,3 +78,8 @@ Un Documento Contable de Liquidación (DCL) es un registro financiero utilizado 
 - **Transparencia Financiera:** Contribuye a la transparencia en la gestión financiera al documentar de manera exhaustiva todos los aspectos relacionados con la liquidación, promoviendo una gestión ordenada y conforme con las normativas.
 
 - **Cumplimiento Normativo:** Asegura el cumplimiento de las regulaciones contables y fiscales al proporcionar un registro detallado de las liquidaciones, facilitando la verificación y la correcta presentación de la información financiera.
+
+## 3.9.4 Descripción de los Campos
+## 3.9.5 Componentes del DCL
+## 3.9.6 Proceso de Emisión de DCL
+## 3.9.7 Uso y Beneficios del DCL
