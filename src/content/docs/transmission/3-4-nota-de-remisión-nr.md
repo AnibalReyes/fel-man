@@ -88,22 +88,20 @@ Una Nota de Remisión es un documento utilizado para registrar y documentar la e
 
 | **Campo**                | **Descripción**                                                |
 |--------------------------|----------------------------------------------------------------|
-| totalNoSuj               | Total de Operaciones no sujetas                                |
-| totalExenta              | Total de Operaciones exentas                                   |
-| totalGravada             | Total de Operaciones Gravadas                                  |
-| subTotalVentas           | Suma de operaciones sin impuestos                              |
-| descuNoSuj               | Monto global de Descuento, Bonificación, Rebajas y otros a ventas no sujetas |
-| descuExenta              | Monto global de Descuento, Bonificación, Rebajas y otros a ventas exentas |
-| descuGravada             | Monto global de Descuento, Bonificación, Rebajas y otros a ventas gravadas |
-| porcentajeDescuento      | Porcentaje del monto global de Descuento, Bonificación, Rebajas y otros |
-| totalDescu               | Total del monto de Descuento, Bonificación, Rebajas            |
-| tributos                 | Resumen de Tributos                                            |
+| Total No Sujeto               | Total de Operaciones no sujetas                                |
+| Total Exento              | Total de Operaciones exentas                                   |
+| Total Gravado             | Total de Operaciones Gravadas                                  |
+| SubTotal Ventas           | Suma de operaciones sin impuestos                              |
+| Descuento no Sujeto               | Monto global de Descuento, Bonificación, Rebajas y otros a ventas no sujetas |
+| Descuento Exento              | Monto global de Descuento, Bonificación, Rebajas y otros a ventas exentas |
+| Descuento Gravado             | Monto global de Descuento, Bonificación, Rebajas y otros a ventas gravadas |
+| Total Descuento               | Total del monto de Descuento, Bonificación, Rebajas            |
 | subTotal                 | Sub-Total                                                       |
-| montoTotalOperacion      | Monto Total de la Operación                                    |
 | totalLetras              | Valor en Letras                                                |
 
+## 3.4.3 Descripción del los Campos
 
-## 3.4.5 Importancia del NR
+## 3.4.4 Importancia del NR
  * **Control de Inventarios:** Ayuda a las empresas a llevar un registro preciso de los bienes que entran y salen, facilitando la gestión y el control de inventarios.
 
  * **Verificación de Entregas:** Permite a los receptores comprobar que los productos recibidos coinciden con los detalles del pedido, garantizando la exactitud y la conformidad de las entregas.
@@ -111,3 +109,7 @@ Una Nota de Remisión es un documento utilizado para registrar y documentar la e
  * **Respaldo Documental:** Sirve como evidencia documental en casos de disputas o auditorías, proporcionando un registro claro y detallado de las transacciones y movimientos de mercancías.
 
  * **Transparencia Comercial:** Contribuye a la transparencia en las transacciones comerciales, asegurando que tanto proveedores como clientes tengan un registro detallado de las entregas realizadas y recibidas.
+
+## 3.4.5 Componentes del FCF
+## 3.4.6 Proceso de Emisión del FCF
+## 3.4.7 Uso y Beneficios del FCF
