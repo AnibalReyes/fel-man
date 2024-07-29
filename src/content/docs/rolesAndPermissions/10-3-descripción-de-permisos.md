@@ -67,7 +67,11 @@ sidebar:
 ## 10.3.5 Clientes
 
 * **Listar Clientes:** Permite ver la lista de clientes.
+
+  ![customers](/images/uploads/listar_clientes.png "Listar clientes")
 * **Crear Cliente:** Permite acceder a la pantalla de creación de clientes.
+
+  ![customer](/images/uploads/crear_cliente.png "Crear cliente")
 * **Editar Cliente:** Permite editar la información de los clientes.
 * **Eliminar Cliente:** Permite eliminar clientes existentes.
 
