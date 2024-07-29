@@ -93,7 +93,11 @@ sidebar:
 ## 10.3.7 DTEs
 
 * **Listar DTEs:** Permite ver la lista de Documentos Tributarios Electrónicos.
+
+  ![DTE](/images/uploads/listar_dte.png "Listar DTE")
 * **Ver Detalle de DTE por Código de Generación:** Permite ver los detalles específicos de un DTE.
+
+  ![DTE](/images/uploads/detalles_dte.png "Ver detalles DTE")
 
 ## 10.3.8 Inventarios
 
