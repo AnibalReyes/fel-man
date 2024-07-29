@@ -23,6 +23,8 @@ sidebar:
 
   ![roles](/images/uploads/lista_roles.png "Listar roles")
 * **Crear Rol:** Permite acceder a la pantalla de creación de roles.
+
+  ![roles](/images/uploads/crear_rol.png "Crear rol")
 * **Actualizar Rol:** Permite editar los roles existentes.
 * **Eliminar Rol:** Permite eliminar roles existentes.
 
