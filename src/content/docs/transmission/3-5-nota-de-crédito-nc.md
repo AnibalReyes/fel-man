@@ -14,66 +14,66 @@ Una Nota de Crédito Electrónica (NCE) es un documento fiscal digital utilizado
 
 | **Campo**          | **Descripción**                                                   |
 |--------------------|-------------------------------------------------------------------|
-| nit                | NIT (Receptor)                                                    |
-| nrc                | NRC (Receptor)                                                    |
-| nombre             | Nombre, denominación o razón social del contribuyente (Receptor)  |
-| codActividad       | Código de Actividad Económica (Receptor)                          |
-| descActividad      | Actividad Económica (Receptor)                                    |
-| nombreComercial    | Nombre Comercial (Receptor)                                       |
-| direccion          | Dirección (Receptor)                                              |
-| telefono           | Teléfono (Receptor)                                               |
-| correo             | Correo electrónico (Receptor)                                     |
+| NIT                | NIT (Receptor)                                                    |
+| NRC                | NRC (Receptor)                                                    |
+| Nombre             | Nombre, denominación o razón social del contribuyente (Receptor)  |
+| Codigo de Actividad       | Código de Actividad Económica (Receptor)                          |
+| Descripció Actividad      | Actividad Económica (Receptor)                                    |
+| Nombre Comercial    | Nombre Comercial (Receptor)                                       |
+| Dirección          | Dirección (Receptor)                                              |
+| Telefono           | Teléfono (Receptor)                                               |
+| Correo             | Correo electrónico (Receptor)                                     |
 
 ### **Documentos Relacionados**
 | **Campo**           | **Descripción**                                                 |
 |---------------------|-----------------------------------------------------------------|
-| tipoDocumento       | Tipo de Documento Tributario Relacionado                        |
-| tipoGeneracion      | Tipo de Generación del Documento Tributario relacionado           |
-| numeroDocumento     | Número de documento relacionado                                  |
-| fechaEmision        | Fecha de Generación del Documento Relacionado                    |
+| Tipo de Documento       | Tipo de Documento Tributario Relacionado                        |
+| Tipo de Generación      | Tipo de Generación del Documento Tributario relacionado           |
+| Numero de Documento     | Número de documento relacionado                                  |
+| Fecha de Emisión        | Fecha de Generación del Documento Relacionado                    |
 
 
 ### **Cuerpo de Documento**
 | **Campo**           | **Descripción**                                           |
 |---------------------|-----------------------------------------------------------|
-| numItem             | N° de ítem                                                |
-| tipoItem            | Tipo de ítem                                              |
-| numeroDocumento     | Número de documento relacionado                           |
-| cantidad            | Cantidad                                                  |
-| codigo              | Código                                                    |
-| codTributo          | Tributo sujeto a cálculo de IVA                           |
-| uniMedida           | Unidad de Medida                                          |
-| descripcion         | Descripción                                               |
-| precioUni           | Precio Unitario                                           |
-| montoDescu          | Descuento, Bonificación, Rebajas por ítem                 |
-| ventaNoSuj          | Ventas no Sujetas                                         |
-| ventaExenta         | Ventas Exentas                                            |
-| ventaGravada        | Ventas Gravadas                                           |
-| tributos            | Código del Tributo                                        |
+| Numero de Item             | N° de ítem                                                |
+| Tipo Item            | Tipo de ítem                                              |
+| Numero de Documento     | Número de documento relacionado                           |
+| Cantidad            | Cantidad                                                  |
+| Codigo              | Código                                                    |
+| Codigo de Tributo          | Tributo sujeto a cálculo de IVA                           |
+| Unidad de Medida           | Unidad de Medida                                          |
+| Descripción         | Descripción                                               |
+| Precio Unitario           | Precio Unitario                                           |
+| Monto de Descuento          | Descuento, Bonificación, Rebajas por ítem                 |
+| Venta No Sujeta          | Ventas no Sujetas                                         |
+| Venta Exenta         | Ventas Exentas                                            |
+| Venta Gravada        | Ventas Gravadas                                           |
+| Tributos            | Código del Tributo                                        |
 
 ### **Venta Tercero**
 | **Campo** | **Descripción**                                         |
 |-----------|---------------------------------------------------------|
-| nit       | NIT por cuenta de Terceros                              |
-| nombre    | Nombre, denominación o razón social del Tercero         |
+| NIT       | NIT por cuenta de Terceros                              |
+| Nombre    | Nombre, denominación o razón social del Tercero         |
 
 
 ### **Extensión**
 | **Campo**       | **Descripción**                                                                                 |
 |-----------------|-------------------------------------------------------------------------------------------------|
-| nombEntrega     | Nombre del responsable que Genera el DTE                                                        |
-| docuEntrega     | Documento de identificación de quien genera el DTE                                              |
-| nombRecibe      | Nombre del responsable de la operación por parte del receptor                                    |
-| docuRecibe      | Documento de identificación del responsable de la operación por parte del receptor               |
-| observaciones   | Observaciones                                                                                   |
+| Nombre Entrega     | Nombre del responsable que Genera el DTE                                                        |
+| Documento Entrega     | Documento de identificación de quien genera el DTE                                              |
+| Nombre Recibe      | Nombre del responsable de la operación por parte del receptor                                    |
+| Documento Recibe      | Documento de identificación del responsable de la operación por parte del receptor               |
+| Observaciones   | Observaciones                                                                                   |
 
 
 ### **Apéndices**
 | Campo    | Descripción           |
 |----------|-----------------------|
-| campo    | Nombre del campo       |
-| etiqueta | Descripción           |
-| valor    | Valor/Dato            |
+| Campo    | Nombre del campo       |
+| Etiqueta | Descripción           |
+| Valor    | Valor/Dato            |
 
 
 ## 3.5.3 Importancia de la Nota de Crédito Electrónica
