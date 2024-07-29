@@ -2,9 +2,13 @@
 title: 3.7 Comprobante de Retención (CR)
 date: 2024-07-22T16:40:00.000Z
 sidebar:
-    order: 7
+  order: 7
 ---
-## 3.7.1 Conceptos básicos
+## 3.7.1 Resumen
+
+Un Comprobante de Retención es un documento tributario que se emite para registrar la retención de impuestos realizada por una entidad sobre los pagos efectuados a sus proveedores o empleados. Este documento es utilizado para cumplir con las obligaciones fiscales relacionadas con la retención de impuestos, tales como el Impuesto sobre la Renta (ISR) o el Impuesto al Valor Agregado (IVA). El Comprobante de Retención permite al receptor acreditar las retenciones realizadas como pago de impuestos en sus declaraciones fiscales, contribuyendo a la transparencia y el cumplimiento de las normativas tributarias.
+
+## 3.7.2 Conceptos básicos
 
 **Cliente (Receptor)**
 
