@@ -60,6 +60,73 @@ La sección de "Apéndices" está destinada a incluir información adicional que
 * **Facilita la Auditoría:** Ayuda en el proceso de auditoría fiscal al proporcionar un registro claro y detallado de las retenciones realizadas, facilitando la verificación y el control por parte de las autoridades fiscales.
 
 ## 3.7.4 Descripción de los Campos
+
+### **Cliente (Receptor)**
+
+* **Nombre**  
+  Nombre completo de la persona o razón social de la empresa que recibe el comprobante.
+
+* **Tipo de Documento**  
+  Tipo de documento de identificación presentado (número de DUI, NIT, Pasaporte, Carnet de Residente, u Otro).
+
+* **Número de Documento**  
+  Número del documento de identificación presentado (número de DUI, NIT, Pasaporte, Carnet de Residente, u Otro).
+
+* **Nombre Comercial**  
+  Nombre comercial bajo el cual opera el receptor, si es diferente de la razón social.
+
+* **NRC**  
+  Número de Registro de Contribuyente, que identifica al receptor ante la autoridad fiscal.
+
+* **Correo Electrónico**  
+  Dirección de correo electrónico del receptor para comunicaciones y envío de documentos.
+
+* **Teléfono**  
+  Número de teléfono del receptor para contacto.
+
+* **Actividad Económica**  
+  La principal actividad comercial o industrial del receptor.
+
+* **Departamento**  
+  El departamento de El Salvador donde se encuentra ubicado el receptor.
+
+* **Municipio**  
+  El municipio dentro del departamento donde se encuentra el receptor.
+
+* **Dirección**  
+  Dirección física completa del receptor (calle, número, colonia, ciudad, etc.).
+
+### **Extensión**
+
+* **Nombre Entrega**  
+  Nombre de la persona que realiza la entrega del producto o servicio.
+
+* **Documento Entrega**  
+  Número del documento de identificación de la persona que realiza la entrega (DUI, NIT, pasaporte, Otro).
+
+* **Nombre Recibe**  
+  Nombre de la persona que recibe el producto o servicio.
+
+* **Documento Recibe**  
+  Número del documento de identificación de la persona que recibe el producto o servicio (DUI, NIT, pasaporte, etc.).
+
+* **Observaciones**  
+  Cualquier comentario o detalle adicional relevante sobre la entrega o recepción del producto o servicio.
+
+* **Placa Vehículo**  
+  Número de placa del vehículo utilizado para la entrega del producto o servicio, si aplica.
+
+### **Apéndices**
+
+* **Campo**  
+  Nombre del campo adicional o específico que se está incluyendo en el apéndice del documento.
+
+* **Etiqueta**  
+  Identificación o descripción del campo, proporcionando contexto sobre la información contenida.
+
+* **Valor**  
+  El valor o la información específica correspondiente a la etiqueta y campo mencionados.
+
 ## 3.7.5 Componentes del CR
 ## 3.7.6 Proceso de Emisión de CR
 ## 3.7.7 Uso y Beneficios del CR
