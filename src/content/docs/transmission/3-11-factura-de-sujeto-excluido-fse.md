@@ -54,3 +54,22 @@ La sección de "Apéndices" de una factura está destinada a incluir informació
 | Campo | Nombre del campo adicional o específico que se está incluyendo en el apéndice del documento. |
 | Etiqueta | Identificación o descripción del campo, proporcionando contexto sobre la información contenida. |
 | Valor | El valor o la información específica correspondiente a la etiqueta y campo mencionados. |
+
+## 3.11.5 Importancia del FSE
+
+- **Registro de Transacciones:** La Factura de Sujeto Excluido (FSE) documenta las ventas o servicios realizados por contribuyentes que están excluidos del régimen general de impuestos, proporcionando un registro claro de las transacciones.
+
+- **Cumplimiento de Normativas:** Facilita el cumplimiento de las normativas fiscales específicas para sujetos excluidos del régimen de impuestos, asegurando que las transacciones se registren de acuerdo con las regulaciones vigentes.
+
+- **Evidencia de Venta:** Sirve como prueba oficial de la venta o prestación de servicios, permitiendo al cliente verificar y respaldar la transacción realizada.
+
+- **Gestión Contable:** Ayuda en la gestión contable y en el control de las operaciones comerciales, asegurando que todas las ventas estén adecuadamente documentadas y registradas.
+
+- **Transparencia en el Negocio:** Promueve la transparencia en las transacciones comerciales entre sujetos excluidos del régimen fiscal, contribuyendo a una mayor formalidad y organización en el negocio.
+
+
+
+
+
+
+ 
