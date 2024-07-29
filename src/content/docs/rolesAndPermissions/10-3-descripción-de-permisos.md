@@ -116,6 +116,8 @@ sidebar:
 * **Listar Puntos de Venta:** Permite ver la lista de puntos de venta.
 * **Crear Punto de Venta:** Permite acceder a la pantalla de creación de puntos de venta.
 * **Editar Punto de Venta:** Permite editar la información de los puntos de venta.
+
+  ![sale point](/images/uploads/editar_punto_venta.png "Editar punto de venta")
 * **Eliminar Punto de Venta:** Permite eliminar puntos de venta existentes.
 * **Listar Documentos de Cliente:** Permite ver la lista de documentos de cliente.
 * **Crear Documento de Cliente:** Permite acceder a la pantalla de creación de documentos de cliente.
