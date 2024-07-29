@@ -35,6 +35,8 @@ sidebar:
 ## 10.3.2 Permisos
 
 * **Listar Permisos:** Permite ver la lista de todos los permisos.
+
+  ![ permissions](/images/uploads/listar_permisos.png "Listar permisos")
 * **Ver Detalle de Permiso:** Permite ver los detalles específicos de un permiso.
 
 ## 10.3.3 Compañías
