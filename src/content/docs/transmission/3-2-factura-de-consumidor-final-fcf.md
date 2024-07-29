@@ -10,7 +10,7 @@ El documento tributario Factura de Consumidor Final es utilizado en las transacc
 
 ## 3.2.2 Conceptos básicos
 
-**Cliente (Receptor)**
+### **Cliente (Receptor)**
 
 ![Pantalla Cliente (Receptor)](/images/uploads/fcf1.png "Cliente (Receptor)")
 
@@ -29,13 +29,12 @@ Información del comprador o destinatario de los bienes o servicios que se detal
 | Municipio           | El municipio dentro del departamento donde se encuentra el receptor.                                            |
 | Dirección           | Dirección física completa del receptor (calle, número, colonia, ciudad, etc.).                                  |
 
-**Cuerpo de Documento**
+### **Cuerpo de Documento**
 
 ![Cuerpo de Documento](/images/uploads/fcf2.png "Ventana modal Cuerpo de Documento")
 
 El "Cuerpo de Documento" es la sección principal de una factura donde se detallan los bienes o servicios vendidos. Esta sección incluye información específica sobre cada ítem de la transacción para asegurar claridad y precisión en el registro de la venta. A continuación se describen los campos comunes que se encuentran en el Cuerpo de Documento:
 
-**Campos**
 
 | Campo                        | Definición                                                                                                    |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -52,7 +51,7 @@ El "Cuerpo de Documento" es la sección principal de una factura donde se detall
 | Precio Sugerido de Venta     | Precio sugerido de venta del producto o servicio.                                                             |
 | Total                        | Monto total de la línea, calculado como (Cantidad x Precio Unitario) menos Monto Descuento más IVA Calculado. |
 
-**Documentos Relacionados**
+### **Documentos Relacionados**
 
 ![Documentos Relacionados](/images/uploads/fcf3.png "Pantalla Documentos Relacionados")
 
@@ -76,7 +75,7 @@ La sección "Venta Tercero" en una factura se utiliza para registrar transaccion
 | Nombre | Nombre completo o razón social de la tercera parte involucrada en la venta. |
 | NIT    | Número de Identificación Tributaria del tercero involucrado en la venta.    |
 
-**Extensión**
+### **Extensión**
 
 ![Extensión](/images/uploads/fcf5.png "Pantalla Extensión")
 
@@ -91,7 +90,7 @@ La sección "Extensión" de una factura suele contener información adicional qu
 | Observaciones     | Cualquier comentario o detalle adicional relevante sobre la entrega o recepción del producto o servicio.            |
 | Placa Vehículo    | Número de placa del vehículo utilizado para la entrega del producto o servicio, si aplica.                          |
 
-**Apéndices**
+### **Apéndices**
 
 ![Apéndices](/images/uploads/fcf6.png "Apéndices")
 
@@ -103,7 +102,7 @@ La sección de "Apéndices" está destinada a incluir información adicional que
 | Etiqueta | Identificación o descripción del campo, proporcionando contexto sobre la información contenida. |
 | Valor    | El valor o la información específica correspondiente a la etiqueta y campo mencionados.         |
 
-**Observaciones**
+### **Observaciones**
 
 ![Observaciones](/images/uploads/fcf7.png "Pantalla Observaciones")
 
@@ -125,7 +124,7 @@ La sección de "Otros Documentos" en una factura se utiliza para registrar y ref
 | Doc. de Identificación del Médico | Número de documento de identificación del médico, si aplica.            |
 | Tipo de Servicio                  | Tipo de servicio proporcionado relacionado con el documento, si aplica. |
 
-## Resumen de documento
+### Resumen de documento
 
 ![Resumen de documento](/images/uploads/fcf9.png "Pantalla Resumen de documento")
 
