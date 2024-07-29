@@ -10,17 +10,67 @@ Una Factura de Exportación es un documento comercial utilizado para registrar y
 
 ## 3.10.2 Conceptos básicos
 
-**Emisor**
+### **Emisor**
 
-**Cliente (Receptor)**
+| Campo                  | Descripción                                                                                     |
+|------------------------|-------------------------------------------------------------------------------------------------|
+| nit                    | NIT (Emisor)                                                                                   |
+| nrc                    | NRC (Emisor)                                                                                   |
+| nombre                 | Nombre, denominación o razón social del contribuyente (Emisor)                                |
+| cod Actividad          | Código de Actividad Económica (Emisor)                                                        |
+| desc Actividad         | Actividad Económica (Emisor)                                                                   |
+| nombre Comercial       | Nombre Comercial (Emisor)                                                                      |
+| tipo Establecimiento  | Tipo de establecimiento (Emisor)                                                               |
+| direccion              | Dirección (Emisor)                                                                           |
+| telefono               | Teléfono (Emisor)                                                                             |
+| correo                 | Correo electrónico (Emisor)                                                                    |
+| cod Estable MH         | Código del establecimiento asignado por el MH                                                   |
+| cod Estable            | Código del establecimiento asignado por el contribuyente                                        |
+| cod Punto Venta MH     | Código del Punto de Venta (Emisor) Asignado por el MH                                          |
+| cod Punto Venta        | Código del Punto de Venta (Emisor) asignado por el contribuyente                                |
+| tipo Item Expor        | Tipo de ítem                                                                                   |
+| recinto Fiscal         | Recinto fiscal                                                                                |
+| regimen                | Régimen de exportación                                                                         |
 
-**Cuerpo de Documento**
 
-**Venta Tercero**
+### **Cliente (Receptor)**
 
-**Apéndices**
+| Campo                  | Descripción                                                                                      |
+|------------------------|--------------------------------------------------------------------------------------------------|
+| nombre                 | Nombre, denominación o razón social del contribuyente (Receptor)                                |
+| tipo Documento         | Tipo de documento de identificación (Receptor)                                                   |
+| num Documento          | Número de documento de Identificación (Receptor)                                                 |
+| nombre Comercial       | Nombre, denominación o razón social del contribuyente (Receptor)                                |
+| cod Pais               | Código de país (receptor)                                                                        |
+| nombre Pais            | País destino de la exportación (receptor)                                                         |
+| complemento            | Colocar las especificaciones de la dirección                                                      |
+| tipo Persona           | Tipo de persona jurídica o persona natural                                                        |
+| desc Actividad         | Actividad Económica (Receptor)                                                                   |
+| telefono               | Teléfono (Receptor)                                                                             |
+| correo                 | Correo electrónico (Receptor)                                                                    |
 
-**Otros Documentos**
+
+### **Cuerpo de Documento**
+| Campo                | Descripción                                                                     |
+|----------------------|---------------------------------------------------------------------------------|
+| num Item             | N° de ítem                                                                       |
+| cantidad             | Cantidad                                                                         |
+| codigo               | Código                                                                           |
+| uni Medida           | Unidad de Medida                                                                  |
+| descripcion          | Descripción                                                                      |
+| precio Uni           | Precio Unitario                                                                   |
+| monto Descu          | Descuento, Bonificación, Rebajas por ítem                                        |
+| venta Gravada        | Ventas Gravadas                                                                   |
+| tributos             | Código del Tributo                                                                |
+| no Gravado           | Cargos / Abonos que no afectan la base imponible                                 |
+
+
+### **Venta Tercero**
+
+
+### **Apéndices**
+
+### **Otros Documentos**
 
 ## 3.10.5 Importancia del FEX
 
