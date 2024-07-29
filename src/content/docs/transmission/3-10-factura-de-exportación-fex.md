@@ -21,3 +21,15 @@ Una Factura de Exportación es un documento comercial utilizado para registrar y
 **Apéndices**
 
 **Otros Documentos**
+
+## 3.10.5 Importancia del FEX
+
+- **Documentación de Exportaciones:** La Factura de Exportación (FEX) documenta las ventas de bienes o servicios realizadas a clientes en el extranjero, detallando los productos o servicios, cantidades, precios y términos de la transacción.
+
+- **Cumplimiento Aduanero:** Facilita el cumplimiento de las regulaciones aduaneras y fiscales tanto en el país exportador como en el país importador, proporcionando la información necesaria para el despacho aduanero.
+
+- **Registro de Ventas Internacionales:** Sirve como registro oficial de las ventas internacionales, ayudando en la gestión y control de las operaciones comerciales y en la contabilidad de la empresa.
+
+- **Evidencia para el Cobro:** Proporciona un documento formal para la reclamación del pago por parte del exportador, asegurando que la venta esté debidamente registrada y respaldada.
+
+- **Beneficios Fiscales:** Permite la reclamación de beneficios fiscales relacionados con la exportación, como exenciones de impuestos o deducciones, facilitando una correcta gestión fiscal de las transacciones internacionales.
