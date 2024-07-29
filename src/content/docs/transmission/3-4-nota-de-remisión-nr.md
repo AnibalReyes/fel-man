@@ -110,6 +110,6 @@ Una Nota de Remisión es un documento utilizado para registrar y documentar la e
 
  * **Transparencia Comercial:** Contribuye a la transparencia en las transacciones comerciales, asegurando que tanto proveedores como clientes tengan un registro detallado de las entregas realizadas y recibidas.
 
-## 3.4.5 Componentes del FCF
-## 3.4.6 Proceso de Emisión del FCF
-## 3.4.7 Uso y Beneficios del FCF
+## 3.4.5 Componentes del NR
+## 3.4.6 Proceso de Emisión del NR
+## 3.4.7 Uso y Beneficios del NR
