@@ -110,8 +110,6 @@ Una Factura de Exportación es un documento comercial utilizado para registrar y
 
 ## 3.10.4 Descripción de los Campos
 
-Aquí está la descripción de cada campo en formato Markdown:
-
 ### **Emisor**
 
 * **NIT**  
