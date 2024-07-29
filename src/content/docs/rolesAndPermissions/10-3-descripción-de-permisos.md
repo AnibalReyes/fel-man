@@ -26,6 +26,8 @@ sidebar:
 
   ![roles](/images/uploads/crear_rol.png "Crear rol")
 * **Actualizar Rol:** Permite editar los roles existentes.
+
+  ![roles](/images/uploads/actualizar_rol.png "Actualizar rol")
 * **Eliminar Rol:** Permite eliminar roles existentes.
 
 ## 10.3.2 Permisos
