@@ -35,7 +35,6 @@ Información del comprador o destinatario de los bienes o servicios que se detal
 
 El "Cuerpo de Documento" es la sección principal de una factura donde se detallan los bienes o servicios vendidos. Esta sección incluye información específica sobre cada ítem de la transacción para asegurar claridad y precisión en el registro de la venta. A continuación se describen los campos comunes que se encuentran en el Cuerpo de Documento:
 
-
 | Campo                        | Definición                                                                                                    |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------- |
 | Código                       | Código único del producto o servicio.                                                                         |
@@ -128,21 +127,126 @@ La sección de "Otros Documentos" en una factura se utiliza para registrar y ref
 
 ![Resumen de documento](/images/uploads/fcf9.png "Pantalla Resumen de documento")
 
-
 ## 3.2.3 Descripción de los Campos
+
+### Cliente (Receptor)
+
+* **Nombre:** El nombre completo de la persona o la razón social de la empresa que recibe la factura.
+
+* **NRC:** Número de Registro de Contribuyente, que identifica al receptor ante la autoridad fiscal.
+
+* **Tipo de Documento:** Tipo de documento de identificación presentado (número de DUI, NIT, Pasaporte, Carnet de Residente, u Otro).
+
+* **Número de Documento:** Número del documento de identificación presentado (número de DUI, NIT, Pasaporte, Carnet de Residente, u Otro).
+
+* **Correo Electrónico:** Dirección de correo electrónico del receptor.
+
+* **Teléfono:** Número de teléfono del receptor para contacto.
+
+* **Actividad Económica:** La principal actividad comercial o industrial del receptor.
+
+* **Departamento:** El departamento de El Salvador donde se encuentra ubicado el receptor.
+
+* **Municipio:** El municipio dentro del departamento donde se encuentra el receptor.
+
+* **Dirección:** Dirección física completa del receptor (calle, número, colonia, ciudad, etc.).
+
+### Cuerpo de Documento
+
+* **Código:** Código único del producto o servicio.
+
+* **Descripción:** Descripción detallada del producto o servicio.
+
+* **Unidad de Medida:** Unidad de medida del producto o servicio (por ejemplo, kilogramos, litros, unidades, etc.).
+
+* **Tipo de Item:** Tipo de producto o servicio (bien, servicio, ambos, otros tributos por item).
+
+* **Cantidad:** Número de unidades del producto o servicio.
+
+* **Tipo de Monto:** Indica si el monto es antes o después de impuestos (No Sujeto, Exento, Gravado, No Gravado).
+
+* **Tributos:** Impuestos aplicables al producto o servicio, como el IVA.
+
+* **Precio Unitario:** Precio por unidad del producto o servicio.
+
+* **IVA Calculado:** Monto del Impuesto al Valor Agregado calculado para el producto o servicio.
+
+* **Monto Descuento:** Monto del descuento aplicado al producto o servicio.
+
+* **Precio Sugerido de Venta:** Precio sugerido de venta del producto o servicio.
+
+* **Total:** Monto total de la línea, calculado como (Cantidad x Precio Unitario) menos Monto Descuento más IVA Calculado.
+
+### Documentos Relacionados
+
+* **Tipo de documento:** Tipo de documento relacionado con la transacción (factura, nota de crédito, etc.).
+
+* **Fecha de Emisión:** Fecha en la que fue emitido el documento relacionado.
+
+* **Número de documento:** Número único o identificador del documento relacionado.
+
+* **Monto:** Monto total indicado en el documento relacionado.
+
+### Venta Tercero
+
+* **Nombre:** Nombre completo o razón social de la tercera parte involucrada en la venta.
+
+* **NIT:** Número de Identificación Tributaria del tercero involucrado en la venta.
+
+### Extensión
+
+* **Nombre Entrega:** Nombre de la persona que realiza la entrega del producto o servicio.
+
+* **Documento Entrega:** Número del documento de identificación de la persona que realiza la entrega (DUI, NIT, pasaporte, Otro).
+
+* **Nombre Recibe:** Nombre de la persona que recibe el producto o servicio.
+
+* **Documento Recibe:** Número del documento de identificación de la persona que recibe el producto o servicio (DUI, NIT, pasaporte, etc.).
+
+* **Observaciones:** Cualquier comentario o detalle adicional relevante sobre la entrega o recepción del producto o servicio.
+
+* **Placa Vehículo:** Número de placa del vehículo utilizado para la entrega del producto o servicio, si aplica.
+
+### Apéndices
+
+* **Campo:** Nombre del campo adicional o específico que se está incluyendo en el apéndice del documento.
+
+* **Etiqueta:** Identificación o descripción del campo, proporcionando contexto sobre la información contenida.
+
+* **Valor:** El valor o la información específica correspondiente a la etiqueta y campo mencionados.
+
+### Observaciones
+
+* **Observaciones:** Comentarios adicionales o notas relevantes sobre la transacción.
+
+### Otros Documentos
+
+* **Código de documento asociado:** Código único o identificador del documento asociado a la transacción.
+
+* **Descripción de documento:** Descripción detallada del documento asociado.
+
+* **Detalle de documento:** Información adicional relevante sobre el documento asociado.
+
+* **Nombre del Médico:** Nombre completo del médico, si aplica.
+
+* **NIT del Médico:** Número de Identificación Tributaria del médico, si aplica.
+
+* **Doc. de Identificación del Médico:** Número de documento de identificación del médico, si aplica.
+
+* **Tipo de Servicio:** Tipo de servicio proporcionado relacionado con el documento, si aplica.
+
+
 
 ## 3.2.4 Importancia del FCF
 
- * **Cumplimiento Tributario:** La Factura de Consumidor Final (FCF) permite a los contribuyentes cumplir con las obligaciones fiscales al registrar las ventas realizadas a consumidores finales, quienes no están en capacidad de exigir créditos fiscales.
-
- * **Registro de Ventas:** Facilita el control y el registro adecuado de las ventas realizadas a consumidores que no están obligados a presentar declaraciones fiscales, ayudando a mantener una contabilidad precisa.
-
- * **Evidencia de Compra:** Sirve como prueba de la compra para el consumidor final, garantizando la transparencia en las transacciones comerciales y proporcionando un documento válido para devoluciones o cambios.
-
- * **Facilita la Auditoría:** Proporciona un registro claro de las ventas al público en general, lo que facilita las auditorías fiscales y la verificación de la correcta aplicación de impuestos.
-
- * **Transparencia Comercial:** Contribuye a una mayor transparencia en las transacciones comerciales, asegurando que todas las ventas estén debidamente documentadas y reportadas, lo que promueve un entorno de negocios más formal y organizado.
+* **Cumplimiento Tributario:** La Factura de Consumidor Final (FCF) permite a los contribuyentes cumplir con las obligaciones fiscales al registrar las ventas realizadas a consumidores finales, quienes no están en capacidad de exigir créditos fiscales.
+* **Registro de Ventas:** Facilita el control y el registro adecuado de las ventas realizadas a consumidores que no están obligados a presentar declaraciones fiscales, ayudando a mantener una contabilidad precisa.
+* **Evidencia de Compra:** Sirve como prueba de la compra para el consumidor final, garantizando la transparencia en las transacciones comerciales y proporcionando un documento válido para devoluciones o cambios.
+* **Facilita la Auditoría:** Proporciona un registro claro de las ventas al público en general, lo que facilita las auditorías fiscales y la verificación de la correcta aplicación de impuestos.
+* **Transparencia Comercial:** Contribuye a una mayor transparencia en las transacciones comerciales, asegurando que todas las ventas estén debidamente documentadas y reportadas, lo que promueve un entorno de negocios más formal y organizado.
 
 ## 3.2.5 Componentes del FCF
+
 ## 3.2.6 Proceso de Emisión del FCF
+
 ## 3.2.7 Uso y Beneficios del FCF
