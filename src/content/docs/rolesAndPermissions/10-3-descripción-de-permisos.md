@@ -20,6 +20,8 @@ sidebar:
   ![users](/images/uploads/eliminar_usuarios.png "Eliminar Usuario")
 * **Actualizar Correo:** Permite cambiar la dirección de correo electrónico de un usuario.
 * **Listar Roles:** Permite ver la lista de roles.
+
+  ![roles](/images/uploads/lista_roles.png "Listar roles")
 * **Crear Rol:** Permite acceder a la pantalla de creación de roles.
 * **Actualizar Rol:** Permite editar los roles existentes.
 * **Eliminar Rol:** Permite eliminar roles existentes.
