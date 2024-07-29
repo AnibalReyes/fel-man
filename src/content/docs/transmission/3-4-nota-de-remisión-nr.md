@@ -84,6 +84,24 @@ Una Nota de Remisión es un documento utilizado para registrar y documentar la e
 | etiqueta  | Descripción                     |
 | valor     | Valor/Dato                      |
 
+### Resumen
+
+| **Campo**                | **Descripción**                                                |
+|--------------------------|----------------------------------------------------------------|
+| totalNoSuj               | Total de Operaciones no sujetas                                |
+| totalExenta              | Total de Operaciones exentas                                   |
+| totalGravada             | Total de Operaciones Gravadas                                  |
+| subTotalVentas           | Suma de operaciones sin impuestos                              |
+| descuNoSuj               | Monto global de Descuento, Bonificación, Rebajas y otros a ventas no sujetas |
+| descuExenta              | Monto global de Descuento, Bonificación, Rebajas y otros a ventas exentas |
+| descuGravada             | Monto global de Descuento, Bonificación, Rebajas y otros a ventas gravadas |
+| porcentajeDescuento      | Porcentaje del monto global de Descuento, Bonificación, Rebajas y otros |
+| totalDescu               | Total del monto de Descuento, Bonificación, Rebajas            |
+| tributos                 | Resumen de Tributos                                            |
+| subTotal                 | Sub-Total                                                       |
+| montoTotalOperacion      | Monto Total de la Operación                                    |
+| totalLetras              | Valor en Letras                                                |
+
 
 ## 3.4.5 Importancia del NR
  * **Control de Inventarios:** Ayuda a las empresas a llevar un registro preciso de los bienes que entran y salen, facilitando la gestión y el control de inventarios.
