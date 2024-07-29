@@ -55,8 +55,14 @@ sidebar:
 
   ![branch](/images/uploads/crear_sucursal.png "Crear sucursal")
 * **Editar Sucursal:** Permite editar la información de las sucursales.
+
+  ![branch](/images/uploads/editar_sucursal.png "Editar sucursal")
 * **Eliminar Sucursal:** Permite eliminar sucursales existentes.
+
+  ![branch](/images/uploads/eliminar_sucursal.png "Eliminar sucursal")
 * **Listar Puntos de Venta por Sucursal:** Permite ver los puntos de venta asociados a una sucursal.
+
+  ![sale point](/images/uploads/listar_puntes_venta.png "Listar puntos de venta")
 
 ## 10.3.5 Clientes
 
