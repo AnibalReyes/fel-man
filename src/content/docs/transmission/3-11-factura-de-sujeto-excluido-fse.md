@@ -69,6 +69,41 @@ La sección de "Apéndices" de una factura está destinada a incluir informació
 
 
 ## 3.11.4 Descripción de los Campos
+
+
+### **Sujeto Excluido (Receptor)**
+
+- **Nombre** El nombre completo de la persona o la razón social de la empresa que recibe la factura.
+- **Tipo de Documento**: Tipo de documento de identificación presentado (número de DUI, NIT, Pasaporte, Carnet de Residente, u Otro).
+- **Número de Documento**: Número del documento de identificación presentado (número de DUI, NIT, Pasaporte, Carnet de Residente, u Otro).
+- **Correo Electrónico**: Dirección de correo electrónico del receptor.
+- **Teléfono**: Número de teléfono del receptor para contacto.
+- **Actividad Económica**: La principal actividad comercial o industrial del receptor.
+- **Departamento**: El departamento de El Salvador donde se encuentra ubicado el receptor.
+- **Municipio**: El municipio dentro del departamento donde se encuentra el receptor.
+- **Dirección**: Dirección física completa del receptor (calle, número, colonia, ciudad, etc.).
+
+### **Cuerpo de Documento**
+
+- **Código**: Código único o identificador del producto o servicio.
+- **Descripción**: Descripción detallada del producto o servicio.
+- **Unidad de Medida**: Unidad de medida del producto o servicio (por ejemplo, kilogramos, litros, unidades, etc.).
+- **Cantidad**: Cantidad de unidades del producto o servicio vendido.
+- **Precio Unitario**: Precio de venta por unidad del producto o servicio, sin incluir impuestos.
+- **Monto Descuento**: Descuento aplicado al producto o servicio, si corresponde.
+- **Total**: Monto total de la transacción para el ítem, después de aplicar descuentos.
+
+### **Venta Tercero**
+
+- **Nombre**: Nombre completo o razón social de la tercera parte involucrada en la venta.
+- **NIT**: Número de Identificación Tributaria del tercero involucrado en la venta.
+
+### **Apéndices**
+
+- **Campo**: Nombre del campo adicional o específico que se está incluyendo en el apéndice del documento.
+- **Etiqueta**: Identificación o descripción del campo, proporcionando contexto sobre la información contenida.
+- **Valor**: El valor o la información específica correspondiente a la etiqueta y campo mencionados.
+
 ## 3.11.5 Componentes del FSE
 ## 3.11.6 Proceso de Emisión de FSE
 ## 3.11.7 Uso y Beneficios del FSE
