@@ -46,3 +46,15 @@ La sección de "Apéndices" está destinada a incluir información adicional que
 | Campo | Nombre del campo adicional o específico que se está incluyendo en el apéndice del documento. |
 | Etiqueta | Identificación o descripción del campo, proporcionando contexto sobre la información contenida. |
 | Valor | El valor o la información específica correspondiente a la etiqueta y campo mencionados. |
+
+## 3.7.5 Importancia del CR
+
+ * **Cumplimiento Tributario:** El Comprobante de Retención (CR) asegura que las retenciones de impuestos realizadas sobre pagos a proveedores o empleados se registren correctamente, cumpliendo con las obligaciones fiscales correspondientes.
+
+* **Registro de Retenciones:** Facilita el registro y control de las retenciones de impuestos, como el Impuesto sobre la Renta (ISR) o el Impuesto al Valor Agregado (IVA), garantizando la precisión en la contabilidad y en las declaraciones fiscales.
+
+* **Evidencia para el Receptor:** Proporciona al receptor del pago un documento que sirve como prueba de la retención realizada, permitiéndole acreditar el monto retenido en sus declaraciones fiscales y reducir su carga tributaria.
+
+* **Transparencia Fiscal:** Promueve la transparencia en las transacciones financieras al documentar de manera oficial las retenciones realizadas, contribuyendo a un entorno fiscal más ordenado y conforme con las normativas vigentes.
+
+* **Facilita la Auditoría:** Ayuda en el proceso de auditoría fiscal al proporcionar un registro claro y detallado de las retenciones realizadas, facilitando la verificación y el control por parte de las autoridades fiscales.
