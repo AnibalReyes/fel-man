@@ -12,12 +12,52 @@ Un Comprobante de Donación (CD) es un documento utilizado para registrar y cert
 ## 3.12.2 Conceptos básicos
 
 ### **Donante (Receptor)**
+| Campo              | Descripción                                                   |
+|--------------------|---------------------------------------------------------------|
+| Tipo de Documento     | Tipo de documento de identificación (Receptor)                |
+| Numero de Documento      | Número de documento de Identificación (Receptor)              |
+| NRC                | NRC (Receptor)                                                |
+| Nombre             | Nombre, denominación o razón social del contribuyente (Receptor) |
+| Codigo de Actividad      | Código de Actividad Económica (Receptor)                      |
+| Descripción de Actividad     | Actividad Económica (Receptor)                                |
+| Dirección          | Dirección (Receptor)                                          |
+| Departamento       | Dirección: Departamento (Receptor)                            |
+| Municipio          | Dirección: Municipio (Receptor)                               |
+| Complemento        | Dirección: complemento (Receptor)                             |
+| Teléfono           | Teléfono (Receptor)                                           |
+| Correo             | Correo electrónico (Receptor)                                 |
+| Codigo de Domiciliado    | Domicilio Fiscal                                              |
+| Codigo de País           | Código de País, catalogo 020                                  |
+
 
 ### **Cuerpo de Documento**
+| Campo              | Descripción                                                   |
+|--------------------|---------------------------------------------------------------|
+| Numero de Item           | N° de ítem                                                    |
+| Tipo de Donación      | Tipo donación                                                 |
+| Cantidad           | Cantidad                                                      |
+| Codigo             | Código                                                        |
+| Unidad de Medida         | Unidad de Medida                                              |
+| Descripción        | Descripción                                                   |
+| Depreciación       | Depreciación                                                  |
+| Valor Unitario          | Valor Unitario                                                |
+| Valor              | Valor Donado                                                  |
 
 ### **Otros Documentos**
+| Campo             | Descripción                                  |
+|-------------------|----------------------------------------------|
+| Codigo de Documento Asociado  | Documento asociado                           |
+| Descripción de Documento    | Identificación del documento asociado        |
+| Detalle Documento | Descripción de documento asociado            |
 
 ### **Apéndices**
+
+| Campo  | Descripción           |
+|--------|-----------------------|
+| Campo  | Nombre del campo      |
+| Etiqueta | Descripción          |
+| Valor  | Valor/Dato            |
+
 
 ## 3.12.3 Importancia del CD
 
