@@ -12,17 +12,79 @@ Una Nota de Débito es un documento comercial utilizado para registrar un aument
 
 ## 3.6.2 Conceptos básicos
 
-**Cliente (Receptor)**
+### **Cliente (Receptor)**
 
-**Documentos Relacionados**
+| Campo          | Descripción                                                                                                 |
+|----------------|-------------------------------------------------------------------------------------------------------------|
+| nit            | NIT (Receptor)                                                                                             |
+| nrc            | NRC (Receptor)                                                                                             |
+| nombre         | Nombre, denominación o razón social del contribuyente (Receptor)                                           |
+| codActividad   | Código de Actividad Económica (Receptor)                                                                    |
+| descActividad  | Actividad Económica (Receptor)                                                                             |
+| nombreComercial| Nombre Comercial (Receptor)                                                                                  |
+| direccion      | Dirección (Receptor)                                                                                       |
+| telefono       | Teléfono (Receptor)                                                                                         |
+| correo         | Correo electrónico (Receptor)                                                                              |
 
-**Cuerpo de Documento**
 
-**Venta Tercero**
+### **Documentos Relacionados**
 
-**Extensión**
+| Campo            | Descripción                                                                                       |
+|------------------|---------------------------------------------------------------------------------------------------|
+| tipoDocumento    | Tipo de Documento Tributario Relacionado                                                          |
+| tipoGeneracion   | Tipo de Generación del Documento Tributario relacionado                                           |
+| numeroDocumento  | Número de documento relacionado                                                                   |
+| fechaEmision     | Fecha de Generación del Documento Relacionado                                                     |
 
-**Apéndices**
+
+### **Cuerpo de Documento**
+
+| Campo           | Descripción                                             |
+|-----------------|---------------------------------------------------------|
+| numItem          | N° de ítem                                              |
+| tipoItem         | Tipo de ítem                                            |
+| numeroDocumento  | Número de documento relacionado                        |
+| cantidad         | Cantidad                                                |
+| codigo           | Código                                                  |
+| codTributo       | Tributo sujeto a cálculo de IVA                         |
+| uniMedida        | Unidad de Medida                                        |
+| descripcion      | Descripción                                             |
+| precioUni        | Precio Unitario                                         |
+| montoDescu       | Descuento, Bonificación, Rebajas por ítem               |
+| ventaNoSuj       | Ventas No Sujetas                                       |
+| ventaExenta      | Ventas Exentas                                          |
+| ventaGravada     | Ventas Gravadas                                         |
+| tributos         | Código del Tributo                                      |
+
+
+### **Venta Tercero**
+
+| Campo  | Descripción                                      |
+|--------|--------------------------------------------------|
+| nit    | NIT por cuenta de Terceros                       |
+| nombre | Nombre, denominación o razón social del Tercero  |
+
+
+### **Extensión**
+
+| Campo         | Descripción                                                          |
+|---------------|----------------------------------------------------------------------|
+| nombEntrega   | Nombre del responsable que Genera el DTE                              |
+| docuEntrega   | Documento de identificación de quien genera el DTE                    |
+| nombRecibe    | Nombre del responsable de la operación por parte del receptor          |
+| docuRecibe    | Documento de identificación del responsable de la operación por parte del receptor |
+| observaciones | Observaciones                                                         |
+
+
+### **Apéndices**
+
+| Campo   | Descripción                    |
+|---------|--------------------------------|
+| campo   | Nombre del campo                |
+| etiqueta| Descripción                     |
+| valor   | Valor/Dato                      |
+
+
 
 ## 3.6.5 Importancia del ND
 
