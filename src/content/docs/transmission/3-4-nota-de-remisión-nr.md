@@ -15,74 +15,74 @@ Una Nota de Remisión es un documento utilizado para registrar y documentar la e
 
 | **Campo**         | **Descripción**                                          |
 |-------------------|----------------------------------------------------------|
-| tipoDocumento     | Tipo de documento de identificación (Receptor)          |
-| numDocumento      | Número de documento de Identificación (Receptor)        |
-| nrc               | NRC (Receptor)                                          |
-| nombre            | Nombre, denominación o razón social del contribuyente (Receptor) |
-| codActividad      | Código de Actividad Económica (Receptor)                |
-| descActividad     | Actividad Económica (Receptor)                          |
-| nombreComercial   | Nombre Comercial (Receptor)                             |
-| direccion         | Dirección (Receptor)                                    |
-| telefono          | Teléfono (Receptor)                                     |
-| correo            | Correo electrónico (Receptor)                           |
-| bienTitulo        | Bienes Remitidos a Título de                            |
+| Tipo de Documento     | Tipo de documento de identificación (Receptor)          |
+| Numero Documento      | Número de documento de Identificación (Receptor)        |
+| NRC               | NRC (Receptor)                                          |
+| Nombre            | Nombre, denominación o razón social del contribuyente (Receptor) |
+| Codigo de Actividad      | Código de Actividad Económica (Receptor)                |
+| Descripción Actividad     | Actividad Económica (Receptor)                          |
+| Nombre Comercial   | Nombre Comercial (Receptor)                             |
+| Direccion         | Dirección (Receptor)                                    |
+| Telefono          | Teléfono (Receptor)                                     |
+| Correo            | Correo electrónico (Receptor)                           |
+| Bien Titulo        | Bienes Remitidos a Título de                            |
 
 
 ### **Documentos Relacionados**
 
 | **Campo**         | **Descripción**                                         |
 |-------------------|---------------------------------------------------------|
-| tipoDocumento     | Tipo de Documento Tributario Relacionado               |
-| tipoGeneracion    | Tipo de Generación del Documento Tributario relacionado |
-| numeroDocumento   | Número de documento relacionado                        |
-| fechaEmision      | Fecha de Generación del Documento Relacionado           |
+| Tipo de Documento     | Tipo de Documento Tributario Relacionado               |
+| Tipo de Generación    | Tipo de Generación del Documento Tributario relacionado |
+| Numero de Documento   | Número de documento relacionado                        |
+| Fecha de Emision      | Fecha de Generación del Documento Relacionado           |
 
 
 ### **Cuerpo de Documento**
 
 | **Campo**         | **Descripción**                                         |
 |-------------------|---------------------------------------------------------|
-| numItem           | N° de ítem                                              |
-| tipoItem          | Tipo de ítem                                           |
-| numeroDocumento   | Número de documento relacionado                        |
-| codigo            | Código                                                  |
-| codTributo        | Tributo sujeto a cálculo de IVA                        |
-| descripcion       | Descripción                                             |
-| cantidad          | Cantidad                                                |
-| uniMedida         | Unidad de Medida                                        |
-| precioUni         | Precio Unitario                                         |
-| montoDescu        | Descuento, Bonificación, Rebajas por ítem               |
-| ventaNoSuj        | Ventas no Sujetas                                      |
-| ventaExenta       | Ventas Exentas                                         |
-| ventaGravada      | Ventas Gravadas                                        |
-| tributos          | Código del Tributo                                     |
+| Numero de Item           | N° de ítem                                              |
+| Tipo de Item          | Tipo de ítem                                           |
+| Numero de Documento   | Número de documento relacionado                        |
+| Codigo            | Código                                                  |
+| Codigo de Tributo        | Tributo sujeto a cálculo de IVA                        |
+| Descripcion       | Descripción                                             |
+| Cantidad          | Cantidad                                                |
+| Unidad de Medida         | Unidad de Medida                                        |
+| Precio Unitario         | Precio Unitario                                         |
+| Monto de Descuento        | Descuento, Bonificación, Rebajas por ítem               |
+| Venta No Sujeta        | Ventas no Sujetas                                      |
+| Venta Exenta       | Ventas Exentas                                         |
+| Venta Gravada      | Ventas Gravadas                                        |
+| Tributos          | Código del Tributo                                     |
 
 
 ### **Venta Tercero**
 
 | **Campo**         | **Descripción**                                          |
 |-------------------|----------------------------------------------------------|
-| nit               | NIT por cuenta de Terceros                              |
-| nombre            | Nombre, denominación o razón social del Tercero         |
+| NIT               | NIT por cuenta de Terceros                              |
+| Nombre            | Nombre, denominación o razón social del Tercero         |
 
 
 ### **Extensión**
 
 | **Campo**         | **Descripción**                                          |
 |-------------------|----------------------------------------------------------|
-| nombEntrega       | Nombre del responsable que Genera el DTE                |
-| docuEntrega       | Documento de identificación de quien genera el DTE      |
-| nombRecibe        | Nombre del responsable de la operación por parte del receptor |
-| docuRecibe        | Documento de identificación del responsable de la operación por parte del receptor |
-| observaciones     | Observaciones                                           |
+| Nombre Entrega       | Nombre del responsable que Genera el DTE                |
+| Documento Entrega       | Documento de identificación de quien genera el DTE      |
+| Nombre Recibe        | Nombre del responsable de la operación por parte del receptor |
+| Documento Recibe        | Documento de identificación del responsable de la operación por parte del receptor |
+| Observaciones     | Observaciones                                           |
 
 ### **Apéndices**
 
 | **Campo** | **Descripción**                |
 |-----------|--------------------------------|
-| campo     | Nombre del campo                |
-| etiqueta  | Descripción                     |
-| valor     | Valor/Dato                      |
+| Campo     | Nombre del campo                |
+| Etiqueta  | Descripción                     |
+| Valor     | Valor/Dato                      |
 
 ### Resumen
 
