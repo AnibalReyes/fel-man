@@ -72,6 +72,48 @@ Un Comprobante de Donación (CD) es un documento utilizado para registrar y cert
 - **Fomento de la Filantropía:** Contribuye a fomentar la cultura de donación y apoyo a causas benéficas, al documentar oficialmente las contribuciones realizadas por individuos y empresas.
 
 ## 3.12.4 Descripción de los Campos
+
+### **Donante (Receptor)**
+
+- **Tipo de Documento**: Tipo de documento de identificación (Receptor).
+- **Número de Documento**: Número del documento de identificación (Receptor).
+- **NRC**: Número de Registro de Contribuyente (Receptor).
+- **Nombre**: Nombre, denominación o razón social del contribuyente (Receptor).
+- **Código de Actividad**: Código de Actividad Económica (Receptor).
+- **Descripción de Actividad**: Actividad Económica (Receptor).
+- **Dirección**: Dirección física del receptor.
+- **Departamento**: Departamento donde se encuentra el receptor.
+- **Municipio**: Municipio dentro del departamento donde se encuentra el receptor.
+- **Complemento**: Detalles adicionales sobre la dirección del receptor.
+- **Teléfono**: Número de teléfono del receptor.
+- **Correo**: Correo electrónico del receptor.
+- **Código de Domiciliado**: Domicilio Fiscal del receptor.
+- **Código de País**: Código del país, catálogo 020.
+
+### **Cuerpo de Documento**
+
+- **Número de Item**: Número de ítem.
+- **Tipo de Donación**: Tipo de donación.
+- **Cantidad**: Cantidad de unidades donadas.
+- **Código**: Código del ítem.
+- **Unidad de Medida**: Unidad de medida del ítem.
+- **Descripción**: Descripción del ítem.
+- **Depreciación**: Depreciación aplicable al ítem.
+- **Valor Unitario**: Valor por unidad del ítem.
+- **Valor**: Valor total donado.
+
+### **Otros Documentos**
+
+- **Código de Documento Asociado**: Código del documento asociado.
+- **Descripción de Documento**: Identificación del documento asociado.
+- **Detalle Documento**: Descripción detallada del documento asociado.
+
+### **Apéndices**
+
+- **Campo**: Nombre del campo adicional o específico incluido en el apéndice.
+- **Etiqueta**: Identificación o descripción del campo, proporcionando contexto sobre la información.
+- **Valor**: El valor o la información específica correspondiente a la etiqueta y campo mencionados.
+
 ## 3.12.5 Componentes del CD
 ## 3.12.6 Proceso de Emisión de CD
 ## 3.12.7 Uso y Beneficios del CD
