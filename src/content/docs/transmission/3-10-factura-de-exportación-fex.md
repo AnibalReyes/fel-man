@@ -109,6 +109,171 @@ Una Factura de Exportación es un documento comercial utilizado para registrar y
 - **Beneficios Fiscales:** Permite la reclamación de beneficios fiscales relacionados con la exportación, como exenciones de impuestos o deducciones, facilitando una correcta gestión fiscal de las transacciones internacionales.
 
 ## 3.10.4 Descripción de los Campos
+
+Aquí está la descripción de cada campo en formato Markdown:
+
+### **Emisor**
+
+* **NIT**  
+  Número de Identificación Tributaria (NIT) del emisor.
+
+* **NRC**  
+  Número de Registro de Contribuyente (NRC) del emisor.
+
+* **Nombre**  
+  Nombre completo, denominación o razón social del contribuyente (emisor).
+
+* **Codigo Actividad**  
+  Código de Actividad Económica del emisor.
+
+* **Desc Actividad**  
+  Descripción de la actividad económica del emisor.
+
+* **Nombre Comercial**  
+  Nombre comercial bajo el cual opera el emisor, si es diferente de la razón social.
+
+* **Tipo Establecimiento**  
+  Tipo de establecimiento en el que opera el emisor (e.g., tienda, oficina, etc.).
+
+* **Dirección**  
+  Dirección física completa del emisor (calle, número, colonia, ciudad, etc.).
+
+* **Teléfono**  
+  Número de teléfono del emisor para contacto.
+
+* **Correo**  
+  Dirección de correo electrónico del emisor para comunicaciones y envío de documentos.
+
+* **Codigo EstablecimientoMH**  
+  Código del establecimiento asignado por el Ministerio de Hacienda (MH).
+
+* **Codigo Establecimiento**  
+  Código del establecimiento asignado por el contribuyente.
+
+* **Codigo de Punto de Venta MH**  
+  Código del Punto de Venta asignado por el Ministerio de Hacienda (MH).
+
+* **Codigo Punto Venta**  
+  Código del Punto de Venta asignado por el contribuyente.
+
+* **Tipo de Item Expor**  
+  Tipo de ítem relacionado con la exportación.
+
+* **Recinto Fiscal**  
+  Recinto fiscal donde se realiza la operación.
+
+* **Regimen**  
+  Régimen de exportación aplicable.
+
+### **Cliente (Receptor)**
+
+* **Nombre**  
+  Nombre completo, denominación o razón social del receptor.
+
+* **Tipo Documento**  
+  Tipo de documento de identificación del receptor (e.g., DUI, NIT, pasaporte).
+
+* **Numero de Documento**  
+  Número del documento de identificación del receptor.
+
+* **Nombre Comercial**  
+  Nombre comercial del receptor, si es diferente de la razón social.
+
+* **Codigo de Pais**  
+  Código del país del receptor.
+
+* **Nombre de Pais**  
+  Nombre del país destino de la exportación.
+
+* **Complemento**  
+  Especificaciones adicionales de la dirección del receptor.
+
+* **Tipo Persona**  
+  Tipo de persona jurídica o natural del receptor.
+
+* **Descripción de Actividad**  
+  Descripción de la actividad económica del receptor.
+
+* **Teléfono**  
+  Número de teléfono del receptor para contacto.
+
+* **Correo**  
+  Dirección de correo electrónico del receptor.
+
+### **Cuerpo de Documento**
+
+* **Numero de Item**  
+  Número de ítem en el documento.
+
+* **Cantidad**  
+  Cantidad del ítem.
+
+* **Código**  
+  Código del ítem.
+
+* **Unidad de Medida**  
+  Unidad de medida del ítem.
+
+* **Descripción**  
+  Descripción del ítem.
+
+* **Precio Unitario**  
+  Precio unitario del ítem.
+
+* **Monto Descu**  
+  Monto de descuento, bonificación o rebajas aplicadas al ítem.
+
+* **Venta Gravada**  
+  Ventas sujetas a impuestos (gravadas).
+
+* **Tributos**  
+  Código del tributo aplicado.
+
+* **No Gravado**  
+  Cargos o abonos que no afectan la base imponible.
+
+### **Venta Tercero**
+
+* **nit**  
+  NIT por cuenta de terceros.
+
+* **nombre**  
+  Nombre, denominación o razón social del tercero.
+
+### **Apéndices**
+
+* **Campo**  
+  Nombre del campo adicional o específico incluido en el apéndice.
+
+* **Etiqueta**  
+  Descripción o identificación del campo adicional.
+
+* **Valor**  
+  Valor o dato correspondiente al campo y etiqueta mencionados.
+
+### **Otros Documentos**
+
+* **Codigo de Documento Asociado**  
+  Código del documento asociado.
+
+* **Descripción del Documento**  
+  Identificación del documento asociado.
+
+* **Detalle del Documento**  
+  Descripción del documento asociado.
+
+* **Placa de Transporte**  
+  Número de placa del vehículo de transporte.
+
+* **Modo de Transporte**  
+  Modo de transporte utilizado.
+
+* **Numero de Conductor**  
+  Número de documento de identificación del conductor.
+
+* **Nombre del Conductor**  
+  Nombre y apellidos del conductor.
+
 ## 3.10.5 Componentes del FEX
 ## 3.10.6 Proceso de Emisión de FEX
 ## 3.10.7 Uso y Beneficios del FEX
