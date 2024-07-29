@@ -29,7 +29,7 @@ Una Nota de Remisión es un documento utilizado para registrar y documentar la e
 
 **Apéndices**
 
-## Importancia del NR
+## 3.4.5 Importancia del NR
  * **Control de Inventarios:** Ayuda a las empresas a llevar un registro preciso de los bienes que entran y salen, facilitando la gestión y el control de inventarios.
 
  * **Verificación de Entregas:** Permite a los receptores comprobar que los productos recibidos coinciden con los detalles del pedido, garantizando la exactitud y la conformidad de las entregas.
