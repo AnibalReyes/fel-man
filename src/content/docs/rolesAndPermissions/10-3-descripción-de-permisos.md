@@ -114,11 +114,17 @@ sidebar:
 * **Listar Formas de Pago:** Permite ver la lista de formas de pago.
 * **Listar Condiciones de Operación:** Permite ver la lista de condiciones de operación.
 * **Listar Puntos de Venta:** Permite ver la lista de puntos de venta.
+
+  ![sale point](/images/uploads/listar_puntes_venta.png "Listar puntos de venta")
 * **Crear Punto de Venta:** Permite acceder a la pantalla de creación de puntos de venta.
+
+  ![sale point](/images/uploads/crear_punto_venta.png "Crear punto de venta")
 * **Editar Punto de Venta:** Permite editar la información de los puntos de venta.
 
   ![sale point](/images/uploads/editar_punto_venta.png "Editar punto de venta")
 * **Eliminar Punto de Venta:** Permite eliminar puntos de venta existentes.
+
+  ![sale point](/images/uploads/eliminar_punto_venta.png "Eliminar punto de venta")
 * **Listar Documentos de Cliente:** Permite ver la lista de documentos de cliente.
 * **Crear Documento de Cliente:** Permite acceder a la pantalla de creación de documentos de cliente.
 * **Editar Documento de Cliente:** Permite editar la información de los documentos de cliente.
