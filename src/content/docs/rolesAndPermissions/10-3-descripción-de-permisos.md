@@ -49,7 +49,11 @@ sidebar:
 ## 10.3.4 Sucursales
 
 * **Listar Sucursales:** Permite ver la lista de sucursales.
+
+  ![branch](/images/uploads/listar_compañias.png "Listar sucursales")
 * **Crear Sucursal:** Permite acceder a la pantalla de creación de sucursales.
+
+  ![branch](/images/uploads/crear_sucursal.png "Crear sucursal")
 * **Editar Sucursal:** Permite editar la información de las sucursales.
 * **Eliminar Sucursal:** Permite eliminar sucursales existentes.
 * **Listar Puntos de Venta por Sucursal:** Permite ver los puntos de venta asociados a una sucursal.
