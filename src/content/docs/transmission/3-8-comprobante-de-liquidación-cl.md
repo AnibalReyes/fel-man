@@ -92,6 +92,134 @@ Un Comprobante de Liquidación es un documento financiero utilizado para registr
 - **Transparencia y Cumplimiento:** Contribuye a una mayor transparencia en las transacciones financieras y asegura el cumplimiento de los acuerdos y regulaciones, promoviendo una gestión financiera ordenada y conforme a las normativas.
 
 ## 3.8.4 Descripción de los Campos
+
+### **Receptor**
+
+* **NIT**  
+  Número de Identificación Tributaria (NIT) del receptor.
+
+* **NRC**  
+  Número de Registro de Contribuyente (NRC) del receptor.
+
+* **Nombre**  
+  Nombre completo, denominación o razón social del receptor.
+
+* **Codigo Actividad**  
+  Código de Actividad Económica del receptor.
+
+* **Descripción Actividad**  
+  Descripción de la actividad económica del receptor.
+
+* **Nombre Comercial**  
+  Nombre comercial bajo el cual opera el receptor, si es diferente de la razón social.
+
+* **Dirección**  
+  Dirección física completa del receptor (calle, número, colonia, ciudad, etc.).
+
+* **Teléfono**  
+  Número de teléfono del receptor para contacto.
+
+* **Correo**  
+  Dirección de correo electrónico del receptor para comunicaciones y envío de documentos.
+
+### **Cuerpo del Documento**
+
+* **Numero de Item**  
+  Número de ítem en el documento.
+
+* **Tipo DTE**  
+  Tipo de documento tributario electrónico (DTE) asociado al ítem.
+
+* **Tipo De Generación**  
+  Tipo de generación del documento relacionado (e.g., emisión, anulación).
+
+* **Numero de Documento**  
+  Número del documento relacionado.
+
+* **Fecha de Generacion**  
+  Fecha de generación del documento relacionado.
+
+* **Venta No Sujeta**  
+  Ventas que no están sujetas a impuestos.
+
+* **Venta Exenta**  
+  Ventas que están exentas de impuestos.
+
+* **Venta Gravada**  
+  Ventas que están sujetas a impuestos.
+
+* **Exportaciones**  
+  Ventas realizadas con destino a exportación.
+
+* **Tributos**  
+  Tributo sujeto a cálculo de IVA.
+
+* **IVA Item**  
+  Monto de IVA aplicado al ítem.
+
+* **Observaciones Item**  
+  Comentarios o detalles adicionales sobre el ítem.
+
+### **Extensión**
+
+* **Nombre Entrega**  
+  Nombre de la persona responsable de generar el DTE.
+
+* **Documento Entrega**  
+  Documento de identificación de la persona que genera el DTE.
+
+* **Nombre Recibe**  
+  Nombre de la persona que recibe el producto o servicio.
+
+* **Documento Recibe**  
+  Documento de identificación de la persona que recibe el producto o servicio.
+
+* **Observaciones**  
+  Cualquier comentario o detalle adicional relevante sobre la entrega o recepción.
+
+### **Apendice**
+
+* **Campo**  
+  Nombre del campo adicional o específico que se está incluyendo en el apéndice del documento. Longitud máxima: 25 caracteres.
+
+* **Etiqueta**  
+  Descripción o identificación del campo adicional. Longitud máxima: 50 caracteres.
+
+* **Valor**  
+  Valor o dato correspondiente al campo y etiqueta mencionados. Longitud máxima: 150 caracteres.
+
+### **Resumen**
+
+* **Total No Sujeto**  
+  Total de operaciones no sujetas a impuestos.
+
+* **Total Exenta**  
+  Total de operaciones exentas de impuestos.
+
+* **Total Gravada**  
+  Total de operaciones gravadas con impuestos.
+
+* **Total Exportación**  
+  Total de operaciones relacionadas con exportación.
+
+* **SubTotal Ventas**  
+  Suma de operaciones sin impuestos.
+
+* **Tributos**  
+  Resumen de los tributos aplicados.
+
+* **Monto Total Operación**  
+  Monto total de la operación, incluyendo todos los ítems y ajustes.
+
+* **IVA Percibido**  
+  Monto de IVA percibido o liquidado en la operación.
+
+* **Total**  
+  Total a pagar después de aplicar impuestos y descuentos.
+
+* **Condición de la Operación**  
+  Estado o condición de la operación (e.g., pagado, pendiente).
+
 ## 3.8.5 Componentes del CL
 ## 3.8.6 Proceso de Emisión de CL
 ## 3.8.7 Uso y Beneficios del CL
