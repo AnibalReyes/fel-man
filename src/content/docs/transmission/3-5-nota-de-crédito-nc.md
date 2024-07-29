@@ -24,8 +24,15 @@ Una Nota de Crédito Electrónica (NCE) es un documento fiscal digital utilizado
 
 ## 3.5.3 Importancia de la Nota de Crédito Electrónica
 
-- **Corrección de Errores:** Permite corregir errores en las facturas originales.
-- **Ajustes Fiscales:** Facilita los ajustes en el crédito fiscal y el débito fiscal.
+* **Ajuste de Facturación:** La Nota de Crédito (NC) permite ajustar el monto de una factura previamente emitida, ya sea por errores en la facturación, devoluciones de productos o descuentos aplicados después de la emisión de la factura original.
+
+* **Corrección de Errores:** Facilita la corrección de errores en las facturas, como cantidades incorrectas, precios erróneos o cualquier otro ajuste necesario, asegurando la exactitud en la contabilidad y en el registro de transacciones.
+
+* **Registro de Devoluciones:** Documenta las devoluciones de bienes o mercancías, proporcionando un registro claro de los productos devueltos y los ajustes correspondientes en el crédito del cliente.
+
+* **Facilita la Contabilidad:** Ayuda en la gestión y conciliación de cuentas por cobrar al registrar correctamente las modificaciones en las facturas emitidas, mejorando la precisión en los informes financieros y las declaraciones fiscales.
+
+* **Transparencia y Cumplimiento:** Promueve la transparencia en las transacciones comerciales y asegura el cumplimiento de las normativas fiscales, proporcionando un documento oficial que respalda los ajustes realizados en las facturas.
 
 ## 3.5.4 Proceso de Emisión de la Nota de Crédito Electrónica
 
