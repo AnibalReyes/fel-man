@@ -10,7 +10,7 @@ Un Comprobante de Crédito Fiscal (CCF) es un documento tributario utilizado par
 
 ## 3.3.2 Conceptos básicos
 
-**Cliente (Receptor)**
+### **Cliente (Receptor)**
 
 El Receptor de un Comprobante de Crédito Fiscal es la entidad que recibe los bienes o servicios y que podrá utilizar el comprobante para acreditar el IVA pagado en sus compras contra el IVA cobrado en sus ventas. Esta sección debe contener información detallada y precisa sobre el receptor para asegurar el cumplimiento de las normativas fiscales.
 
@@ -27,7 +27,7 @@ El Receptor de un Comprobante de Crédito Fiscal es la entidad que recibe los bi
 | Municipio | El municipio dentro del departamento donde se encuentra el receptor. |
 | Dirección | Dirección física completa del receptor (calle, número, colonia, ciudad, etc.). |
 
-**Documentos Relacionados**
+### **Documentos Relacionados**
 
 | Campo | Descripción |
 | --- | --- |
@@ -36,7 +36,7 @@ El Receptor de un Comprobante de Crédito Fiscal es la entidad que recibe los bi
 | Número de documento | Número único o identificador del documento relacionado. |
 | Monto | Monto total indicado en el documento relacionado. |
 
-**Cuerpo de Documento**
+### **Cuerpo de Documento**
 
 | Campo | Descripción |
 | --- | --- |
@@ -52,7 +52,7 @@ El Receptor de un Comprobante de Crédito Fiscal es la entidad que recibe los bi
 | Monto Descuento | Descuento aplicado al producto o servicio, si corresponde. |
 | Total | Monto total de la transacción para el ítem, después de aplicar impuestos y descuentos. |
 
-**Venta Tercero**
+### **Venta Tercero**
 
 La sección "Venta Tercero" en una factura se utiliza para registrar transacciones donde la venta de los bienes o servicios involucra a un tercero. Este tercero puede actuar como intermediario, distribuidor o cualquier otra entidad que participe en la cadena de suministro o distribución, pero no es el consumidor final del producto o servicio.
 
@@ -61,7 +61,7 @@ La sección "Venta Tercero" en una factura se utiliza para registrar transaccion
 | Nombre | Nombre completo o razón social de la tercera parte involucrada en la venta. |
 | NIT | Número de Identificación Tributaria del tercero involucrado en la venta. |
 
-**Extensión**
+### **Extensión**
 
 | Campo | Definición |
 | --- | --- |
@@ -72,7 +72,7 @@ La sección "Venta Tercero" en una factura se utiliza para registrar transaccion
 | Observaciones | Cualquier comentario o detalle adicional relevante sobre la entrega o recepción del producto o servicio. |
 | Placa Vehículo | Número de placa del vehículo utilizado para la entrega del producto o servicio, si aplica. |
 
-**Apéndices**
+### **Apéndices**
 
 La sección de "Apéndices" está destinada a incluir información adicional que complementa y detalla aún más la transacción principal documentada en la factura. Los apéndices suelen contener datos que no encajan en las secciones estándar del documento pero que son esenciales para una comprensión completa y precisa de la transacción.
 
@@ -82,7 +82,7 @@ La sección de "Apéndices" está destinada a incluir información adicional que
 | Etiqueta | Identificación o descripción del campo, proporcionando contexto sobre la información contenida. |
 | Valor | El valor o la información específica correspondiente a la etiqueta y campo mencionados. |
 
-**Otros Documentos**
+### **Otros Documentos**
 
 | Campo | Definición |
 | --- | --- |
