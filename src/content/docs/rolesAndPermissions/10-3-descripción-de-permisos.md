@@ -81,8 +81,14 @@ sidebar:
 
   ![products](/images/uploads/listar_productos.png "Listar productos")
 * **Crear Producto:** Permite acceder a la pantalla de creación de productos.
+
+  ![product](/images/uploads/crear_producto.png "Crear producto")
 * **Editar Producto:** Permite editar la información de los productos.
+
+  ![product](/images/uploads/editar_producto.png "Editar producto")
 * **Eliminar Producto:** Permite eliminar productos existentes.
+
+  ![product](/images/uploads/eliminar_producto.png "Eliminar producto")
 
 ## 10.3.7 DTEs
 
