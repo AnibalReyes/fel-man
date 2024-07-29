@@ -128,3 +128,16 @@ La sección de "Otros Documentos" en una factura se utiliza para registrar y ref
 ## Resumen de documento
 
 ![Resumen de documento](/images/uploads/fcf9.png "Pantalla Resumen de documento")
+
+
+## 3.2.5 Importancia del FCF
+
+ * **Cumplimiento Tributario:** La Factura de Consumidor Final (FCF) permite a los contribuyentes cumplir con las obligaciones fiscales al registrar las ventas realizadas a consumidores finales, quienes no están en capacidad de exigir créditos fiscales.
+
+ * **Registro de Ventas:** Facilita el control y el registro adecuado de las ventas realizadas a consumidores que no están obligados a presentar declaraciones fiscales, ayudando a mantener una contabilidad precisa.
+
+ * **Evidencia de Compra:** Sirve como prueba de la compra para el consumidor final, garantizando la transparencia en las transacciones comerciales y proporcionando un documento válido para devoluciones o cambios.
+
+ * **Facilita la Auditoría:** Proporciona un registro claro de las ventas al público en general, lo que facilita las auditorías fiscales y la verificación de la correcta aplicación de impuestos.
+
+ * **Transparencia Comercial:** Contribuye a una mayor transparencia en las transacciones comerciales, asegurando que todas las ventas estén debidamente documentadas y reportadas, lo que promueve un entorno de negocios más formal y organizado.
