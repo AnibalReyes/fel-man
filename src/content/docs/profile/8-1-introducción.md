@@ -10,11 +10,11 @@ En la sección de tu perfil, encontrarás varias opciones clave para personaliza
 
 - **Cuenta**
 
-- **Seguridad:** Esta opción te permite fortalecer la seguridad de tu cuenta. Puedes cambiar tu contraseña, habilitar la autenticación de dos factores (2FA) y revisar las sesiones activas para asegurarte de que solo tú tienes acceso a tu cuenta.
+- **Seguridad**
 
-- **Apariencia:** Personaliza cómo se ve tu perfil y cómo interactúas con el sitio. Puedes elegir temas, ajustar configuraciones de visualización y modificar elementos visuales para que la plataforma se adapte a tus preferencias estéticas.
+- **Apariencia**
 
-- **Empresa:** Si formas parte de una organización o equipo, esta opción te permite gestionar la información relacionada con tu empresa. Aquí puedes actualizar detalles sobre la organización, agregar o eliminar miembros, y configurar las opciones específicas para el trabajo en equipo dentro de la plataforma.
+- **Empresa** 
 
 Estas opciones te proporcionan control total sobre cómo te representas en el sitio, cómo proteges tu información, y cómo interactúas con otros usuarios. Asegúrate de revisar y ajustar cada sección para que tu perfil refleje de manera precisa quién eres y cómo deseas ser visto en la comunidad.
 
