@@ -110,6 +110,12 @@ export default defineConfig({
       autogenerate: {
         directory: "rolesAndPermissions"
       }
+    }, {
+      label: "Perfil",
+      collapsed: true,
+      autogenerate: {
+        directory: "profile"
+      }
     }
   ]
   }),
