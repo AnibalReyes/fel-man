@@ -1,6 +1,8 @@
 ---
 title: 1.2 Acceso a la Plataforma
 date: 2024-07-23T08:50:00.000Z
+sidebar:
+  order: 2
 ---
 1. **Abrir la Plataforma:**
 
