@@ -46,4 +46,4 @@ serializado en json:
 }
 ```
 
-El ``access_token`` devuelto sera posteriormente utilizado en toda notificacion enviada en la cabezera ``Authorization`` con formato ``Bearer <token>``. El ``expires_in`` representa el tiempo de expiracion del token en segundos, nuestro sistema no volvera a hacer una peticion para recuperar el token hasta que el mismo este expirado.
+El ```access_token``` devuelto sera posteriormente utilizado en toda notificacion enviada en la cabezera ``Authorization`` con formato ``Bearer <token>``. El ``expires_in`` representa el tiempo de expiracion del token en segundos, nuestro sistema no volvera a hacer una peticion para recuperar el token hasta que el mismo este expirado.
