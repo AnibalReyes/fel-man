@@ -116,6 +116,13 @@ export default defineConfig({
       autogenerate: {
         directory: "profile"
       }
+    },
+    {
+      label: "Webhooks",
+      collapsed: true,
+      autogenerate: {
+        directory: "webhooks"
+      }
     }
   ]
   }),
