@@ -83,8 +83,6 @@ Al hacer clic en los permisos correspondientes a clientes, es importante compren
 
 ![](/images/uploads/whatsapp-image-2024-09-09-at-11.48.20-pm.jpeg)
 
-
-
 ### Productos
 
 Al hacer clic en los permisos correspondientes a productos, podrás integrar todos los productos y facturación recurrente de tu compañía.
@@ -95,7 +93,7 @@ Al hacer clic en los permisos correspondientes a productos, podrás integrar tod
 
 **Listar productos por Compañía:** Permite buscar productos filtrando por la compañía a la que pertenecen, lo que facilita la gestión y organización
 
-**Ver detalle de producto:** Podrás consultar el ID asignado al cliente, así como la fecha de creación y la última modificación de su información.
+**Ver detalle de producto:** Podrás consultar el ID asignado al producto, así como la fecha de creación y la última modificación de su información.
 
 **Eliminar producto:** Esta opción te permite eliminar todos los datos asociados al producto seleccionado.
 
