@@ -17,9 +17,11 @@ sidebar:
 
 Al hacer clic en el ícono de roles, se mostrará el listado de roles ya creados. Para añadir un nuevo rol, haz clic en "Crear Rol" en la parte superior derecha. Esto abrirá una ventana donde podrás definir los accesos y permisos para los usuarios en la plataforma.
 
+![](/images/uploads/whatsapp-image-2024-09-09-at-11.47.32-pm.jpeg)
+
 Ingresa el nombre con el cual se identificará el rol, seguido de un código interno.Se configurarán los permisos para el usuario encargado de la creación de usuarios y roles. Para ello, deberá seleccionar todas las casillas correspondientes a este acceso.
 
-En este apartado, se podrá visualizar la información de las compañías y sus sucursales. Es importante aclarar que los usuarios con este acceso tendrán la capacidad de modificar la información de la empresa dentro de la plataforma, lo que incluye la posibilidad de cambiar el perfil y ajustar las configuraciones.
+![](/images/uploads/whatsapp-image-2024-09-09-at-11.47.42-pm.jpeg)
 
 1. **Acceder a la Pantalla de Creación/Edición:**
 
@@ -53,6 +55,16 @@ En este apartado, se podrá visualizar la información de las compañías y sus 
 
 ## 10.2.4 Descripcion de las secciones de permisos
 
+### Compañias y Sucursales
+
+En este apartado, se podrá visualizar la información de las compañías y sus sucursales. Es importante aclarar que los usuarios con este acceso tendrán la capacidad de modificar la información de la empresa dentro de la plataforma, lo que incluye la posibilidad de cambiar el perfil y ajustar las configuraciones.
+
+![](/images/uploads/whatsapp-image-2024-09-09-at-11.47.52-pm.jpeg)
+
+![](/images/uploads/whatsapp-image-2024-09-09-at-11.48.00-pm.jpeg)
+
+![](/images/uploads/whatsapp-image-2024-09-09-at-11.48.07-pm.jpeg)
+
 ### Clientes
 
 Al hacer clic en los permisos correspondientes a clientes, es importante comprender cual es la función de los diferentes puntos que se observan, por ejemplo:
@@ -68,6 +80,10 @@ Al hacer clic en los permisos correspondientes a clientes, es importante compren
 **Eliminar Cliente:** Esta opción te permite eliminar todos los datos asociados al cliente seleccionado.
 
 **Editar Cliente:** Esta opción te permitirá modificar y actualizar la información del cliente una vez que haya sido creado.
+
+![](/images/uploads/whatsapp-image-2024-09-09-at-11.48.20-pm.jpeg)
+
+
 
 ### Productos
 
@@ -85,6 +101,10 @@ Al hacer clic en los permisos correspondientes a productos, podrás integrar tod
 
 **Editar productos:** Esta opción te permitirá modificar y actualizar la información del producto una vez que haya sido creado
 
+![](/images/uploads/whatsapp-image-2024-09-09-at-11.48.27-pm.jpeg)
+
 ### DTES
 
 Al seleccionar cada uno de los accesos y permisos, se podrás visualizar los campos necesarios para la transmisión. Es importante identificar las funciones asociadas a cada acceso para cada usuario, con el fin de facilitar las operaciones diarias con la debida diligencia.
+
+![](/images/uploads/whatsapp-image-2024-09-09-at-11.48.34-pm.jpeg)
