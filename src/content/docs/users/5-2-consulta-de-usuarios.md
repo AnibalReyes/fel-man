@@ -6,6 +6,8 @@ sidebar:
 ---
 ## 6.2.1 Acceso a la Sección de Usuarios
 
+Al hacer clic en el ícono de usuarios, se abrirá una ventana que mostrará un listado de los usuarios existentes.
+
 1. **Navegación:**
 
    * Desde el menú principal, seleccione la opción "Equipo" y luego "Usuarios".
@@ -14,6 +16,11 @@ sidebar:
 
 ## 6.2.2 Creación de Usuarios
 
+En la parte superior derecha de la pantalla, podrás encontrar el botón para crear nuevos usuarios.
+
+Al hacer clic, se abrirá una pestaña donde se podrá visualizar una plantilla para el llenado masivo, así como una serie de campos para el llenado manual individual. Es importante contar con un ROL previamente creado y tener un correo electrónico registrado para la confirmación de credenciales, especialmente en caso de olvido de contraseña.
+
+
 1. **Acceder a la Pantalla de Creación:**
 
    * En la pantalla de "Lista de Usuarios", haga clic en el botón "Crear Usuario".
@@ -21,13 +28,13 @@ sidebar:
      ![create user](/images/uploads/crear_usuarios.gif "Crear Usuarios")
 2. **Completar el Formulario de Creación:**
 
-   * **Nombre:** Ingrese el nombre completo del usuario (ej. Juan Pérez).
-   * **Correo Electrónico:** Ingrese la dirección de correo electrónico del usuario (name@example.com).
-   * **Nombre de Usuario:** Ingrese un nombre de usuario único (@johndoe).
-   * **Rol:** Seleccione el rol del usuario desde el menú desplegable.
-   * **Puntos de Venta Asignados:** Seleccione los puntos de venta a los que tendrá acceso el usuario.
+   * **Nombre:** Es el identificador utilizado para realizar búsquedas dentro de la plataforma.
+   * **Correo Electrónico:** Es la dirección utilizada para ingresar a la plataforma, recibir notificaciones, y restablecer la contraseña en caso de olvido.
+   * **Nombre de Usuario:** Es el identificador asignado internamente para el usuario.
+   * **Rol:** Es el identificador utilizado para realizar búsquedas dentro de la plataforma.
+   * **Puntos de Venta Asignados:** Código asignado por el Ministerio de Hacienda.
    * **Punto de Venta por Defecto:** Seleccione el punto de venta principal del usuario.
-   * **Contraseña:** Ingrese una contraseña segura.
+   * **Contraseña:** Clave que proporciona acceso a la plataforma.
    * **Confirmar Contraseña:** Reingrese la contraseña para confirmarla.
 
      ![create user](/images/uploads/crea_usuario.gif "Crear usuario")
