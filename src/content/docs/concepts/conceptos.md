@@ -11,19 +11,22 @@ sidebar:
 Consiste en un código otorgado por la Administración Tributaria que acredita el carácter de Documento Tributario Electrónico.
 
 ## **Eventos**
+
 De conformidad a lo establecido en el inciso cuarto del artículo 119-D.
 
 ## **Facturación Electrónica**
 
 Remítase a la página #19 de la normativa de cumplimiento.
 
+![](/images/uploads/whatsapp-image-2024-09-09-at-11.58.05-pm.jpeg)
+
 ## **Invalidación**
+
 Se refiere a la anulación de un DTE que ha dejado de ser válido o aceptado, cuando se rescinda totalmente de la operación, según el artículo 119-E CT.
 
 ## Contingencia
+
 Situación de fuerza mayor que imposibilita la transmisión de los DTEs. Consiste en la emisión de DTEs sin conexión con el Ministerio de Hacienda, siendo su estado de transmisión 'en contingencia'. Tanto el envío al Ministerio de Hacienda como al cliente se realiza automáticamente una vez restablecida la conexión. Tipos de documentos relacionados: CCF, FE, FEX, NR, NC, ND y FSE.
-
-
 
 ## Estados del DTE
 
