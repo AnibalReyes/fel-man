@@ -8,16 +8,16 @@ La implementacion de webhooks requiere exponer un endpoint de su sistema a inter
 
 #### Usar Secreto
 
-Es el metodo de seguridad mas sencillo. El valor ingresado aqui sera enviado en todo evento transmitido hacia el webhook en la cabezera http ``X-Webhook-Secret`` asi verificando que es una transmision que viene de nuestro sistema.
+Es el metodo de seguridad mas sencillo. El valor ingresado aqui sera enviado en todo evento transmitido hacia el webhook en la cabezera http **X-Webhook-Secret** asi verificando que es una transmision que viene de nuestro sistema.
 
 #### Usar Endpoint de Autenticacion
 
 Este metodo consiste en proporcionarnos con un endpoint de autenticacion, al cual enviaremos los siguientes parametros segun lo configurado
 
-**Usuario del Webhook** sera el valor enviado en ``client_id``
+**Usuario del Webhook** sera el valor enviado en **client_id**
 **Contraseña para el Webhook** sera el valor enviado en ``client_secret``
 
-El tipo de contenido enviado es de tipo ``application/x-www-form-urlencoded`` y se adiciona un parametro de query de tipo ``?grant_type=client_credentials``. Ejemplo en Go:
+El tipo de contenido enviado es de tipo **application/x-www-form-urlencoded** y se adiciona un parametro de query de tipo **?grant_type=client_credentials**. Ejemplo en Go:
 
 ```go
 type WebhookAuthRequest struct {
@@ -26,7 +26,7 @@ type WebhookAuthRequest struct {
 }
 ```
 
-Factured espera recibir una respuesta de este endpoint que contenga esta estructura como minimo, con contenido ``application/json``:
+Factured espera recibir una respuesta de este endpoint que contenga esta estructura como minimo, con contenido **application/json**:
 
 ```go
 type WebhookAuthResponse struct {
@@ -46,4 +46,4 @@ serializado en json:
 }
 ```
 
-El ```access_token``` devuelto sera posteriormente utilizado en toda notificacion enviada en la cabezera ``Authorization`` con formato ``Bearer <token>``. El ``expires_in`` representa el tiempo de expiracion del token en segundos, nuestro sistema no volvera a hacer una peticion para recuperar el token hasta que el mismo este expirado.
+El **access_token** devuelto sera posteriormente utilizado en toda notificacion enviada en la cabezera **Authorization** con formato **Bearer <token>**. El **expires_in** representa el tiempo de expiracion del token en segundos, nuestro sistema no volvera a hacer una peticion para recuperar el token hasta que el mismo este expirado.
