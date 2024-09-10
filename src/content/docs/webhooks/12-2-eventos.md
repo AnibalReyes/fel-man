@@ -5,9 +5,11 @@ sidebar:
   order: 2
 ---
 ## DTE URL
+
 Nosotros enviaremos la siguiente estructura a la URL especificada en este campo. Actualmente el evento del webhook es activado cuando se actualiza uno o varios DTEs emitidos en contingencia o cuando se actualiza un lote de DTEs transmitidos por el API de lotes.  La URL es lo minimo requerido para hacer una integracion con nuestro sistema de webhooks. 
 
 Este es un ejemplo de la estructura representada en el lenguaje "Go" :
+
 ```go
 type WebhookDteRequest struct {
 	WebHookDte          []WebHookDte `json:"dtes"`
@@ -29,6 +31,7 @@ type WebhookDte struct {
 	ExternalOriginId  *string  `json:"externalOriginId"`
 }
 ```
+
 Si no estan familiarizados con el lenguaje Go, pueden interpretar los valores con * como opcionales, es decir podrian estar o no estar incluidos en el mensaje recibido dependiendo de ciertas condiciones de la transmision.
 
 Y este es un ejemplo de una posible representacion json de la anterior estructura:
