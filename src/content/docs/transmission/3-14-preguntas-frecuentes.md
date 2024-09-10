@@ -1,8 +1,8 @@
 ---
-title: 3.15 Preguntas Frecuentes
+title: 3.16 Preguntas Frecuentes
 date: 2024-07-23T10:58:00.000Z
 sidebar:
-  order: 15
+  order: 16
 ---
 **¿Qué hago si mi transmisión es rechazada?**
 
