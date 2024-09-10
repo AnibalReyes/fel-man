@@ -15,7 +15,7 @@ Es el metodo de seguridad mas sencillo. El valor ingresado aqui sera enviado en 
 Este metodo consiste en proporcionarnos con un endpoint de autenticacion, al cual enviaremos los siguientes parametros segun lo configurado
 
 **Usuario del Webhook** sera el valor enviado en **client_id**
-**Contraseña para el Webhook** sera el valor enviado en ``client_secret``
+**Contraseña para el Webhook** sera el valor enviado en **client_secret**
 
 El tipo de contenido enviado es de tipo **application/x-www-form-urlencoded** y se adiciona un parametro de query de tipo **?grant_type=client_credentials**. Ejemplo en Go:
 
